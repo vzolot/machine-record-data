@@ -1,0 +1,70 @@
+name: Refresh data
+
+on:
+  schedule:
+    # After the register's own nightly run at 06:00 UTC.
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Export from the public API
+        run: python scripts/export.py
+
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          git config user.name "machine-record-bot"
+          git config user.email "hello@themachinerecord.com"
+          git add data
+          # summary.json and cases.json carry an export timestamp, so only
+          # commit when the CSV (pure data) differs.
+          if git diff --cached --quiet -- data/cases.csv; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No data change"
+          else
+            git commit -m "Data refresh $(date -u +%Y-%m-%d)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Optional mirrors. Each runs only when its secret exists, so the
+      # workflow stays green before the accounts are set up.
+      - name: Push to Hugging Face
+        if: steps.commit.outputs.changed == 'true' && env.HF_TOKEN != ''
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          pip install -q huggingface_hub
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          repo = os.environ.get("HF_REPO", "themachinerecord/robot-incidents")
+          api.create_repo(repo, repo_type="dataset", exist_ok=True)
+          api.upload_folder(repo_id=repo, repo_type="dataset", folder_path="data", path_in_repo="data")
+          api.upload_file(repo_id=repo, repo_type="dataset", path_or_fileobj="huggingface/README.md", path_in_repo="README.md")
+          print("pushed to", repo)
+          PY
+
+      - name: Push to Kaggle
+        if: steps.commit.outputs.changed == 'true' && env.KAGGLE_KEY != ''
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          pip install -q kaggle
+          mkdir -p kaggle/data && cp data/cases.csv data/cases.json kaggle/data/
+          cd kaggle
+          kaggle datasets version -p . -m "Data refresh $(date -u +%Y-%m-%d)" --dir-mode zip || kaggle datasets create -p . --dir-mode zip

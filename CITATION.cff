@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "The Machine Record: incidents involving commercial physical robots"
+message: "If you use this dataset, please cite it as below and link the case pages you rely on."
+type: dataset
+authors:
+  - name: "The Machine Record"
+    website: "https://themachinerecord.com"
+url: "https://themachinerecord.com"
+repository-code: "https://github.com/vzolot/machine-record-data"
+license: CC-BY-4.0
+date-released: 2026-09-22
+keywords:
+  - robot safety
+  - robotaxi
+  - autonomous vehicles
+  - humanoid robots
+  - incident database
+  - product recalls
