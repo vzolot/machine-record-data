@@ -1,22 +1,17 @@
 {
  "total": 280,
  "by_category": {
-  "other": 80,
-  "autonomous_vehicle": 51,
-  "humanoid": 32,
-  "delivery": 27,
-  "robot_arm": 26,
-  "consumer": 23,
+  "autonomous_vehicle": 118,
+  "humanoid": 34,
+  "delivery": 28,
+  "robot_arm": 28,
+  "consumer": 24,
+  "industrial": 14,
   "surgical": 14,
-  "industrial": 12,
-  "service": 6,
+  "service": 10,
+  "other": 6,
   "warehouse_amr": 3,
-  "unknown": 1,
-  "agricultural": 1,
-  "autonomous vehicle collision": 1,
-  "robot malfunction": 1,
-  "autonomous vehicle / smoke detection failure": 1,
-  "autonomous vehicle regulatory enforcement": 1
+  "agricultural": 1
  },
  "by_severity": {
   "no_harm": 74,
@@ -105,5 +100,5 @@
   "2025": 76,
   "2026": 88
  },
- "exported_at": "2026-09-21T21:35:26+00:00"
+ "exported_at": "2026-09-22T07:33:47+00:00"
 }
