@@ -12,6 +12,12 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # Секрети на рівні job: у `if` кроку `secrets` недоступний, а `env` - так.
+    env:
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HF_REPO: Vzolot/machine-record
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
     steps:
       - uses: actions/checkout@v5
 
@@ -43,10 +49,7 @@ jobs:
       # workflow stays green before the accounts are set up.
       - name: Push to Hugging Face
         # Ручний запуск пушить завжди: перше завантаження і перевірка токена.
-        if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && secrets.HF_TOKEN != ''
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_REPO: Vzolot/machine-record
+        if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && env.HF_TOKEN != ''
         run: |
           pip install -q huggingface_hub
           python - <<'PY'
@@ -61,10 +64,7 @@ jobs:
           PY
 
       - name: Push to Kaggle
-        if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && secrets.KAGGLE_KEY != ''
-        env:
-          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && env.KAGGLE_KEY != ''
         run: |
           pip install -q kaggle
           mkdir -p kaggle/data && cp data/cases.csv data/cases.json kaggle/data/
