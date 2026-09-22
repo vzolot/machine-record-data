@@ -68,4 +68,4 @@ jobs:
           pip install -q kaggle
           mkdir -p kaggle/data && cp data/cases.csv data/cases.json kaggle/data/
           cd kaggle
-          kaggle datasets version -p . -m "Data refresh $(date -u +%Y-%m-%d)" --dir-mode zip || kaggle datasets create -p . --dir-mode zip
+          kaggle datasets version -p . -m "Data refresh $(date -u +%Y-%m-%d)" --dir-mode zip || kaggle datasets create -p . --dir-mode zip --public
