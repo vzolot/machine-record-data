@@ -4,7 +4,7 @@
  "note": "Case metadata is CC BY 4.0. Quoted source text remains with its publisher.",
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
- "exported_at": "2026-09-22T07:33:47+00:00",
+ "exported_at": "2026-09-22T09:53:26+00:00",
  "total": 280,
  "cases": [
   {
@@ -36,7 +36,7 @@
   {
    "ref": "TMR-0003",
    "url": "https://themachinerecord.com/case/a-starship-food-delivery-robot-reversed-into-a-73-year-old-a-person-parking-atte-0003",
-   "title": "A Starship food delivery robot reversed into a 73-year-old a person parking attendant on the Tempe campus, knocking her down and causing a laceration near her left elbow and subsequent back pain.",
+   "title": "A Starship food delivery robot reversed into a 73-year-old ASU parking attendant on the Tempe campus, knocking her down and causing a laceration near her left elbow and subsequent back pain.",
    "date_of_incident": "2023-01-01",
    "company": "Starship Technologies",
    "category": "delivery",
@@ -62,7 +62,7 @@
   {
    "ref": "TMR-0005",
    "url": "https://themachinerecord.com/case/an-uber-eats-delivery-robot-developed-by-avride-allegedly-cut-off-cyclist-a-pers-0005",
-   "title": "An Uber Eats delivery robot developed by Avride allegedly cut off cyclist a person in the bike lane on Varick Street in Jersey City, causing him to go airborne and sustain a concussion and broken clavicle.",
+   "title": "An Uber Eats delivery robot developed by Avride allegedly cut off a cyclist in the bike lane on Varick Street in Jersey City, causing him to go airborne and sustain a concussion and broken clavicle.",
    "date_of_incident": "2025-10-22",
    "company": "Avride",
    "category": "delivery",
@@ -88,7 +88,7 @@
   {
    "ref": "TMR-0007",
    "url": "https://themachinerecord.com/case/a-serve-robotics-delivery-robot-collided-with-a-person-a-man-with-cerebral-palsy-0007",
-   "title": "A Serve Robotics delivery robot collided with a person, a man with cerebral palsy riding a mobility scooter, on a sidewalk near the West Hollywood Sheriff's Station, causing his scooter to jolt backward.",
+   "title": "A Serve Robotics delivery robot collided with a man with cerebral palsy riding a mobility scooter on a sidewalk near the West Hollywood Sheriff's Station, causing his scooter to jolt backward.",
    "date_of_incident": "2025-09-13",
    "company": "Serve Robotics",
    "category": "delivery",
@@ -231,7 +231,7 @@
   {
    "ref": "TMR-0019",
    "url": "https://themachinerecord.com/case/a-knightscope-k5-security-robot-ran-over-a-16-month-old-toddler-a-person-at-a-sh-0019",
-   "title": "A Knightscope K5 security robot ran over a 16-month-old toddler, a person, at a shopping centre in Silicon Valley, leaving him with swelling to his right foot.",
+   "title": "A Knightscope K5 security robot ran over a 16-month-old toddler at a shopping centre in Silicon Valley, leaving him with swelling to his right foot.",
    "date_of_incident": "2016-07-14",
    "company": "Knightscope",
    "category": "service",
@@ -244,7 +244,7 @@
   {
    "ref": "TMR-0020",
    "url": "https://themachinerecord.com/case/a-person-a-48-year-old-engineer-at-a-person-in-hipperholme-was-fatally-crushed-b-0020",
-   "title": "a person, a 48-year-old engineer at a person in Hipperholme, was fatally crushed by a robotic arm while cleaning a sensor inside the machine's cell, dying from crush injuries to his chest.",
+   "title": "A 48-year-old engineer at Deco-Pak in Hipperholme was fatally crushed by a robotic arm while cleaning a sensor inside the machine's cell, dying from crush injuries to his chest.",
    "date_of_incident": "2017-04-14",
    "company": null,
    "category": "robot_arm",
@@ -270,7 +270,7 @@
   {
    "ref": "TMR-0022",
    "url": "https://themachinerecord.com/case/a-person-20-was-killed-when-a-robot-at-the-ajin-usa-plant-in-cusseta-alabama-res-0022",
-   "title": "a person, 20, was killed when a robot at the Ajin USA plant in Cusseta, Alabama restarted abruptly while she was inside a robotic station clearing a sensor fault on a stopped assembly line.",
+   "title": "A 20-year-old worker was killed when a robot at the Ajin USA plant in Cusseta, Alabama restarted abruptly while she was inside a robotic station clearing a sensor fault on a stopped assembly line.",
    "date_of_incident": "2016-06-18",
    "company": null,
    "category": "robot_arm",
@@ -283,7 +283,7 @@
   {
    "ref": "TMR-0023",
    "url": "https://themachinerecord.com/case/a-person-a-25-year-old-ford-assembly-line-worker-was-killed-instantly-when-a-rob-0023",
-   "title": "a person, a 25-year-old Ford assembly line worker, was killed instantly when a robot arm struck him in the head while he was gathering parts in a storage facility at a Ford casting plant in Flat Rock, Michigan.",
+   "title": "A 25-year-old Ford assembly line worker was killed instantly when a robot arm struck him in the head while he was gathering parts in a storage facility at a Ford casting plant in Flat Rock, Michigan.",
    "date_of_incident": "1979-01-25",
    "company": null,
    "category": "robot_arm",
@@ -452,7 +452,7 @@
   {
    "ref": "TMR-0037",
    "url": "https://themachinerecord.com/case/a-unitree-humanoid-robot-fell-twice-while-performing-michael-jackson-s-moonwalk--0037",
-   "title": "A Unitree humanoid robot fell twice while performing Michael Jackson's moonwalk at an event organized by robot store a person in Shenzhen, China, and had to be dragged off stage by staff.",
+   "title": "A Unitree humanoid robot fell twice while performing Michael Jackson's moonwalk at an event organized by robot store Future Era in Shenzhen, China, and had to be dragged off stage by staff.",
    "date_of_incident": "2026-05-20",
    "company": "Unitree Robotics",
    "category": "humanoid",
@@ -491,7 +491,7 @@
   {
    "ref": "TMR-0042",
    "url": "https://themachinerecord.com/case/at-tesla-s-fremont-california-plant-in-november-2019-a-stack-of-three-steel-skid-0042",
-   "title": "At Tesla's Fremont, California plant in November 2019, a stack of three steel skids on an automated conveyor system knocked worker a person down and dragged him more than 15 feet, seriously injuring both his legs.",
+   "title": "At Tesla's Fremont, California plant in November 2019, a stack of three steel skids on an automated conveyor system knocked a worker down and dragged him more than 15 feet, seriously injuring both his legs.",
    "date_of_incident": "2019-11-01",
    "company": "Tesla",
    "category": "industrial",
@@ -504,7 +504,7 @@
   {
    "ref": "TMR-0043",
    "url": "https://themachinerecord.com/case/a-da-vinci-surgical-robot-allegedly-burned-and-tore-a-person-s-small-intestine-d-0043",
-   "title": "A da Vinci surgical robot allegedly burned and tore a person's small intestine during colon cancer surgery in Florida in September 2021, leading to additional procedures and her death in February 2022, prompting a wrongful death lawsuit against Intuitive Surgical.",
+   "title": "A da Vinci surgical robot allegedly burned and tore a patient's small intestine during colon cancer surgery in Florida in September 2021, leading to additional procedures and her death in February 2022, prompting a wrongful death lawsuit against Intuitive Surgical.",
    "date_of_incident": "2021-09-01",
    "company": "Intuitive Surgical",
    "category": "surgical",
@@ -517,7 +517,7 @@
   {
    "ref": "TMR-0044",
    "url": "https://themachinerecord.com/case/a-person-71-died-on-june-26-2022-after-undergoing-robotic-surgery-to-remove-pros-0044",
-   "title": "a person, 71, died on June 26, 2022, after undergoing robotic surgery to remove prostate cancer at Lawrence + Memorial Hospital in New London on June 3, 2022, with a lawsuit alleging the hospital lacked the resources to safely perform the procedure and failed to transfer him sooner to a major medical center.",
+   "title": "A 71-year-old man died on June 26, 2022, after undergoing robotic surgery to remove prostate cancer at Lawrence + Memorial Hospital in New London on June 3, 2022, with a lawsuit alleging the hospital lacked the resources to safely perform the procedure and failed to transfer him sooner to a major medical center.",
    "date_of_incident": "2022-06-03",
    "company": null,
    "category": "surgical",
@@ -530,7 +530,7 @@
   {
    "ref": "TMR-0045",
    "url": "https://themachinerecord.com/case/a-person-a-20-year-old-worker-at-ajin-usa-metal-stamping-plant-in-chambers-count-0045",
-   "title": "a person, a 20-year-old worker at Ajin USA metal stamping plant in Chambers County, Alabama, was crushed to death on June 18, 2016, when a robotic arm started up while she was inside a machinery enclosure troubleshooting a sensor fault without following required lockout/tagout procedures.",
+   "title": "A 20-year-old worker at Ajin USA metal stamping plant in Chambers County, Alabama, was crushed to death on June 18, 2016, when a robotic arm started up while she was inside a machinery enclosure troubleshooting a sensor fault without following required lockout/tagout procedures.",
    "date_of_incident": "2016-06-18",
    "company": null,
    "category": "robot_arm",
@@ -1011,7 +1011,7 @@
   {
    "ref": "TMR-0083",
    "url": "https://themachinerecord.com/case/an-unoccupied-waymo-robotaxi-stopped-at-a-traffic-light-was-rear-ended-in-a-mult-0083",
-   "title": "An unoccupied Waymo robotaxi stopped at a traffic light was rear-ended in a multi-vehicle collision at Sixth and a person in San Francisco, killing one person and injuring seven others.",
+   "title": "An unoccupied Waymo robotaxi stopped at a traffic light was rear-ended in a multi-vehicle collision at Sixth and Harrison Streets in San Francisco, killing one person and injuring seven others.",
    "date_of_incident": "2025-01-19",
    "company": "Waymo",
    "category": "autonomous_vehicle",
@@ -1102,7 +1102,7 @@
   {
    "ref": "TMR-0092",
    "url": "https://themachinerecord.com/case/a-robot-vacuum-exploded-at-a-home-in-brabham-perth-critically-burning-25-year-ol-0092",
-   "title": "A robot vacuum exploded at a home in Brabham, Perth, critically burning 25-year-old Lachie a person over approximately 75% of his body and destroying the property.",
+   "title": "A robot vacuum exploded at a home in Brabham, Perth, critically burning a 25-year-old man over approximately 75% of his body and destroying the property.",
    "date_of_incident": "2026-07-03",
    "company": null,
    "category": "consumer",
@@ -1206,7 +1206,7 @@
   {
    "ref": "TMR-0100",
    "url": "https://themachinerecord.com/case/lawsuits-allege-that-microscopic-cracks-in-the-insulating-covers-of-the-da-vinci-0100",
-   "title": "Lawsuits allege that microscopic cracks in the insulating covers of the da Vinci Surgical System's a person allowed electrical current to leak and burn patients during minimally invasive surgeries at hospitals across the United States.",
+   "title": "Lawsuits allege that microscopic cracks in the insulating covers of the da Vinci Surgical System's Monopolar Curved Scissors allowed electrical current to leak and burn patients during minimally invasive surgeries at hospitals across the United States.",
    "date_of_incident": "2013-06-14",
    "company": "Intuitive Surgical",
    "category": "surgical",
@@ -1349,7 +1349,7 @@
   {
    "ref": "TMR-0112",
    "url": "https://themachinerecord.com/case/a-starship-technologies-food-delivery-robot-waiting-in-a-curb-ramp-on-forbes-ave-0112",
-   "title": "A Starship Technologies food delivery robot waiting in a curb ramp on Forbes Avenue at Pitt's campus blocked the path of a wheelchair-using doctoral student, a person, forcing her to alter her route to reach the sidewalk.",
+   "title": "A Starship Technologies food delivery robot waiting in a curb ramp on Forbes Avenue at Pitt's campus blocked the path of a wheelchair-using doctoral student, forcing her to alter her route to reach the sidewalk.",
    "date_of_incident": "2019-10-21",
    "company": "Starship Technologies",
    "category": "delivery",
@@ -1388,7 +1388,7 @@
   {
    "ref": "TMR-0115",
    "url": "https://themachinerecord.com/case/a-pony-ai-autonomous-vehicle-operating-in-driverless-mode-struck-a-center-divide-0115",
-   "title": "A Pony.ai autonomous vehicle operating in driverless mode struck a center divider and traffic sign on a person in Fremont, California, sustaining moderate damage with no injuries reported.",
+   "title": "A Pony.ai autonomous vehicle operating in driverless mode struck a center divider and traffic sign on Fremont Blvd in Fremont, California, sustaining moderate damage with no injuries reported.",
    "date_of_incident": "2021-10-28",
    "company": "Pony.ai",
    "category": "autonomous_vehicle",
@@ -1427,7 +1427,7 @@
   {
    "ref": "TMR-0118",
    "url": "https://themachinerecord.com/case/a-cruise-self-driving-robotaxi-was-struck-by-a-san-francisco-fire-department-tru-0118",
-   "title": "A Cruise self-driving robotaxi was struck by a San Francisco Fire Department truck en route to an emergency at the intersection of Polk and a person in the Tenderloin district, resulting in one passenger being transported to a hospital with non-severe injuries.",
+   "title": "A Cruise self-driving robotaxi was struck by a San Francisco Fire Department truck en route to an emergency at the intersection of Polk and Turk Streets in the Tenderloin district, resulting in one passenger being transported to a hospital with non-severe injuries.",
    "date_of_incident": "2023-08-17",
    "company": "Cruise",
    "category": "autonomous_vehicle",
@@ -1596,7 +1596,7 @@
   {
    "ref": "TMR-0133",
    "url": "https://themachinerecord.com/case/a-humanoid-robot-kicked-a-man-in-the-groin-area-during-a-sparring-session-drawin-0133",
-   "title": "A humanoid robot kicked a man in the groin area during a sparring session, drawing a person's reaction.",
+   "title": "A humanoid robot kicked a man in the groin area during a sparring session, drawing Elon Musk's reaction.",
    "date_of_incident": "2025-12-29",
    "company": null,
    "category": "humanoid",
@@ -1648,7 +1648,7 @@
   {
    "ref": "TMR-0137",
    "url": "https://themachinerecord.com/case/twenty-year-old-a-person-was-crushed-to-death-inside-a-robotic-welding-station-a-0137",
-   "title": "Twenty-year-old a person was crushed to death inside a robotic welding station at the Ajin USA facility in Cusseta, Alabama, when the robot abruptly restarted while she and co-workers were clearing a sensor fault.",
+   "title": "A twenty-year-old worker was crushed to death inside a robotic welding station at the Ajin USA facility in Cusseta, Alabama, when the robot abruptly restarted while she and co-workers were clearing a sensor fault.",
    "date_of_incident": "2016-06-18",
    "company": null,
    "category": "robot_arm",
@@ -1674,7 +1674,7 @@
   {
    "ref": "TMR-0139",
    "url": "https://themachinerecord.com/case/a-tesla-software-engineer-was-attacked-by-a-robot-at-tesla-s-a-person-factory-in-0139",
-   "title": "A Tesla software engineer was attacked by a robot at Tesla's a person factory in Austin when a third robot that had not been disabled pinned him and sank its metal claws into his back and arm, causing lacerations.",
+   "title": "A Tesla software engineer was attacked by a robot at Tesla's Giga Texas factory in Austin when a third robot that had not been disabled pinned him and sank its metal claws into his back and arm, causing lacerations.",
    "date_of_incident": "2021-12-31",
    "company": "Tesla",
    "category": "robot_arm",
@@ -1830,7 +1830,7 @@
   {
    "ref": "TMR-0151",
    "url": "https://themachinerecord.com/case/a-54-year-old-man-with-a-a-person-complete-spinal-cord-injury-sustained-bilatera-0151",
-   "title": "A 54-year-old man with a a person complete spinal cord injury sustained bilateral proximal tibial fractures during a powered robotic exoskeleton physiotherapy session, requiring manipulation under anaesthetic and 12 weeks of non-weight-bearing treatment.",
+   "title": "A 54-year-old man with a T10 complete spinal cord injury sustained bilateral proximal tibial fractures during a powered robotic exoskeleton physiotherapy session, requiring manipulation under anaesthetic and 12 weeks of non-weight-bearing treatment.",
    "date_of_incident": "2024-04-16",
    "company": null,
    "category": "other",
@@ -1843,7 +1843,7 @@
   {
    "ref": "TMR-0152",
    "url": "https://themachinerecord.com/case/a-paralyzed-former-jockey-was-left-unable-to-use-his-rea-person-exoskeleton-afte-0152",
-   "title": "A paralyzed former jockey was left unable to use his Rea person exoskeleton after manufacturer Lifeward refused to service the device due to its age, before eventually agreeing to repair it following a public campaign.",
+   "title": "A paralyzed former jockey was left unable to use his ReWalk Personal exoskeleton after manufacturer Lifeward refused to service the device due to its age, before eventually agreeing to repair it following a public campaign.",
    "date_of_incident": "2024-09-27",
    "company": "Lifeward",
    "category": "other",
@@ -2012,7 +2012,7 @@
   {
    "ref": "TMR-0167",
    "url": "https://themachinerecord.com/case/a-person-an-employee-of-n-c-enterprises-ltd-in-kilmeague-was-struck-and-killed-b-0167",
-   "title": "a person, an employee of N&C Enterprises Ltd. in Kilmeague, was struck and killed by a rotating robotic arm after entering a restricted area through a retrofitted gate that bypassed the plant's safety protections.",
+   "title": "An employee of N&C Enterprises Ltd. in Kilmeague was struck and killed by a rotating robotic arm after entering a restricted area through a retrofitted gate that bypassed the plant's safety protections.",
    "date_of_incident": "2025-05-26",
    "company": null,
    "category": "robot_arm",
@@ -2116,7 +2116,7 @@
   {
    "ref": "TMR-0177",
    "url": "https://themachinerecord.com/case/saudi-humanoid-robot-muhammad-allegedly-touched-female-reporter-a-person-inappro-0177",
-   "title": "Saudi humanoid robot 'Muhammad' allegedly touched female reporter a person inappropriately on her back during its public launch at the DeepFast event in Riyadh.",
+   "title": "Saudi humanoid robot 'Muhammad' allegedly touched a female reporter inappropriately on her back during its public launch at the DeepFast event in Riyadh.",
    "date_of_incident": "2024-03-04",
    "company": null,
    "category": "humanoid",
@@ -2337,7 +2337,7 @@
   {
    "ref": "TMR-0210",
    "url": "https://themachinerecord.com/case/a-unitree-g1-humanoid-robot-suffered-a-mid-performance-malfunction-while-dancing-0210",
-   "title": "A Unitree G1 humanoid robot suffered a mid-performance malfunction while dancing to a person's 'a person' at the a person robot store in Shenzhen, China, stumbling and collapsing before being dragged off stage by a human assistant.",
+   "title": "A Unitree G1 humanoid robot suffered a mid-performance malfunction while dancing to Michael Jackson's 'Billie Jean' at the Future Era robot store in Shenzhen, China, stumbling and collapsing before being dragged off stage by a human assistant.",
    "date_of_incident": "2026-05-22",
    "company": "Unitree Robotics",
    "category": "humanoid",
@@ -2402,7 +2402,7 @@
   {
    "ref": "TMR-0217",
    "url": "https://themachinerecord.com/case/a-unitree-h1-humanoid-robot-struck-a-person-during-the-1500-meter-race-at-the-hu-0217",
-   "title": "A Unitree H1 humanoid robot struck a person during the 1500-meter race at the Humanoid Robot Sports Games when two human operators failed to issue an evasion command in time during a remote-control handover.",
+   "title": "A Unitree H1 humanoid robot struck a bystander during the 1500-meter race at the Humanoid Robot Sports Games when two human operators failed to issue an evasion command in time during a remote-control handover.",
    "date_of_incident": "2025-08-15",
    "company": "Unitree Robotics",
    "category": "humanoid",
