@@ -42,9 +42,11 @@ jobs:
       # Optional mirrors. Each runs only when its secret exists, so the
       # workflow stays green before the accounts are set up.
       - name: Push to Hugging Face
-        if: steps.commit.outputs.changed == 'true' && env.HF_TOKEN != ''
+        # Ручний запуск пушить завжди: перше завантаження і перевірка токена.
+        if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && secrets.HF_TOKEN != ''
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: Vzolot/machine-record
         run: |
           pip install -q huggingface_hub
           python - <<'PY'
@@ -59,7 +61,7 @@ jobs:
           PY
 
       - name: Push to Kaggle
-        if: steps.commit.outputs.changed == 'true' && env.KAGGLE_KEY != ''
+        if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && secrets.KAGGLE_KEY != ''
         env:
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
