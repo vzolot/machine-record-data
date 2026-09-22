@@ -1,6 +1,6 @@
 {
   "title": "Commercial robot incidents: The Machine Record",
-  "id": "themachinerecord/commercial-robot-incidents",
+  "id": "volodymyrzolotukhin/commercial-robot-incidents",
   "licenses": [{ "name": "CC-BY-4.0" }],
   "subtitle": "Robotaxi, delivery, industrial and humanoid robot incidents, followed from report to settlement",
   "description": "Mirror of the public register at https://themachinerecord.com. One row per documented incident involving a commercial physical robot, with a permanent case page carrying the timeline and archived sources. Case metadata is CC BY 4.0. Not a safety rating: fleet sizes are not public.",
