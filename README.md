@@ -28,7 +28,7 @@ in every row carries the timeline, the sources and any correction or dispute.
 | `title` | One-sentence description of the event |
 | `date_of_incident` | ISO date. Precision varies; the case page states it |
 | `company` | Manufacturer or operator named in the sources, or empty |
-| `category` | Robot class: `autonomous_vehicle`, `delivery`, `humanoid`, `robot_arm`, `surgical`, `industrial`, `warehouse_amr`, `consumer`, `service`, `agricultural`, `other` |
+| `category` | Kind of machine: `autonomous_vehicle`, `delivery`, `humanoid`, `robot_arm`, `cobot`, `industrial`, `warehouse_amr`, `surgical`, `consumer`, `service`, `agricultural`, `other` |
 | `incident_type` | What happened: collision, malfunction, injury and so on |
 | `severity` | From `no_harm` to `fatality` |
 | `location` | Free text as reported |
