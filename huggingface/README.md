@@ -46,5 +46,7 @@ with its publisher.
 
 ## Citation
 
+DOI for the dataset (all versions): https://doi.org/10.5281/zenodo.22925531
+
 Cite a case by its reference and URL (`TMR-0238`, `https://themachinerecord.com/case/...`),
-or the register as a whole via the CITATION.cff in the GitHub repository.
+or the dataset as a whole by the DOI above; CITATION.cff in the GitHub repository carries the same reference.

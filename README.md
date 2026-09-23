@@ -1,5 +1,7 @@
 # The Machine Record: incidents involving commercial physical robots
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22925531.svg)](https://doi.org/10.5281/zenodo.22925531)
+
 A mirror of the public register at [themachinerecord.com](https://themachinerecord.com):
 documented incidents involving commercial physical robots, from robotaxis and
 sidewalk delivery robots to warehouse machines, surgical systems and humanoids.
@@ -65,8 +67,13 @@ news sources is not covered by this licence and stays with its publisher, which
 is why the files carry links rather than article text.
 
 To cite a single case, use its reference and URL, for example
-`TMR-0238, https://themachinerecord.com/case/...`. To cite the register, see
-`CITATION.cff`.
+`TMR-0238, https://themachinerecord.com/case/...`. To cite the dataset, use the
+Zenodo DOI, which resolves to the latest archived release:
+
+> The Machine Record (2026). *The Machine Record: incidents involving commercial
+> physical robots* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22925531
+
+`CITATION.cff` carries the same reference in machine-readable form.
 
 ## Updates
 
