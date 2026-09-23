@@ -1,0 +1,33 @@
+{
+  "title": "The Machine Record: incidents involving commercial physical robots",
+  "description": "Case metadata of The Machine Record, a public register of incidents involving commercial physical robots (robotaxis, delivery robots, warehouse and industrial machines, surgical systems, humanoids). One row per documented incident, with a permanent case page that carries the timeline from first report to any recall, investigation, lawsuit or settlement, and the archived sources. Refreshed daily from the site's open API. Not a safety rating: fleet sizes are not public.",
+  "creators": [
+    {
+      "name": "The Machine Record"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "keywords": [
+    "robot safety",
+    "robotaxi",
+    "autonomous vehicles",
+    "humanoid robots",
+    "incident database",
+    "product recalls",
+    "robotics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://themachinerecord.com",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/Vzolot/machine-record",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
