@@ -1,9 +1,9 @@
 {
- "total": 280,
+ "total": 282,
  "by_category": {
-  "autonomous_vehicle": 118,
+  "autonomous_vehicle": 119,
   "humanoid": 34,
-  "delivery": 28,
+  "delivery": 29,
   "robot_arm": 28,
   "consumer": 24,
   "industrial": 14,
@@ -14,15 +14,15 @@
   "agricultural": 1
  },
  "by_severity": {
+  "minor_injury": 74,
   "no_harm": 74,
-  "minor_injury": 73,
-  "property_damage": 51,
+  "property_damage": 52,
   "serious_injury": 44,
   "fatality": 37,
   "unknown": 1
  },
  "by_escalation_stage": {
-  "report": 187,
+  "report": 189,
   "follow_up": 38,
   "recall": 25,
   "investigation": 16,
@@ -33,13 +33,13 @@
   "settlement": 1
  },
  "by_company": {
-  "unattributed": 92,
+  "unattributed": 93,
   "Waymo": 69,
   "Tesla": 15,
   "Unitree Robotics": 11,
-  "Cruise": 10,
+  "Zoox": 11,
+  "Cruise": 11,
   "Starship Technologies": 9,
-  "Zoox": 9,
   "Avride": 4,
   "Intuitive Surgical": 4,
   "Boston Dynamics": 4,
@@ -78,9 +78,7 @@
   "Aiper": 1,
   "DoorDash": 1,
   "Qualcomm": 1,
-  "Kyoto Humanoid Association (KyoHA)": 1,
-  "Zoox (Amazon)": 1,
-  "Cruise (GM)": 1
+  "Kyoto Humanoid Association (KyoHA)": 1
  },
  "by_year": {
   "1979": 1,
@@ -98,7 +96,7 @@
   "2023": 24,
   "2024": 28,
   "2025": 76,
-  "2026": 88
+  "2026": 90
  },
- "exported_at": "2026-09-22T09:53:26+00:00"
+ "exported_at": "2026-09-28T16:20:04+00:00"
 }

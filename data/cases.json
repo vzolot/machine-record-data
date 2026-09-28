@@ -4,8 +4,8 @@
  "note": "Case metadata is CC BY 4.0. Quoted source text remains with its publisher.",
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
- "exported_at": "2026-09-22T09:53:26+00:00",
- "total": 280,
+ "exported_at": "2026-09-28T16:20:04+00:00",
+ "total": 282,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -1448,7 +1448,7 @@
    "severity": "serious_injury",
    "location": "San Francisco, California, USA",
    "escalation_stage": "report",
-   "sources": 27
+   "sources": 31
   },
   {
    "ref": "TMR-0120",
@@ -3587,7 +3587,7 @@
    "url": "https://themachinerecord.com/case/zoox-recalled-software-on-all-105-robotaxis-after-one-vehicle-drove-into-an-acti-0768",
    "title": "Zoox recalled software on all 105 robotaxis after one vehicle drove into an active fire scene obscured by heavy smoke in Las Vegas on June 20, 2026.",
    "date_of_incident": "2026-06-20",
-   "company": "Zoox (Amazon)",
+   "company": "Zoox",
    "category": "autonomous_vehicle",
    "incident_type": "recall",
    "severity": "no_harm",
@@ -3600,7 +3600,7 @@
    "url": "https://themachinerecord.com/case/cruise-fined-500-000-by-doj-for-submitting-a-false-report-omitting-that-its-robo-0769",
    "title": "Cruise fined $500,000 by DOJ for submitting a false report omitting that its robotaxi dragged a pedestrian in October 2023 in San Francisco.",
    "date_of_incident": "2023-10-01",
-   "company": "Cruise (GM)",
+   "company": "Cruise",
    "category": "autonomous_vehicle",
    "incident_type": "fine",
    "severity": "serious_injury",
@@ -3646,6 +3646,32 @@
    "location": "Atlanta, GA",
    "escalation_stage": "report",
    "sources": 1
+  },
+  {
+   "ref": "TMR-0773",
+   "url": "https://themachinerecord.com/case/an-lafd-ambulance-transporting-a-patient-collided-with-a-food-delivery-robot-at--0773",
+   "title": "An LAFD ambulance transporting a patient collided with a food delivery robot at Western and Fountain avenues in Hollywood on January 23, 2026.",
+   "date_of_incident": "2026-01-23",
+   "company": null,
+   "category": "delivery",
+   "incident_type": "collision",
+   "severity": "property_damage",
+   "location": "Hollywood, Los Angeles, California - Western Avenue and Fountain Avenue intersection",
+   "escalation_stage": "report",
+   "sources": 3
+  },
+  {
+   "ref": "TMR-0775",
+   "url": "https://themachinerecord.com/case/a-zoox-robotaxi-collided-with-a-silver-nissan-murano-on-las-vegas-boulevard-near-0775",
+   "title": "A Zoox robotaxi collided with a silver Nissan Murano on Las Vegas Boulevard near Four Seasons Drive on September 25, 2026, sending the Murano driver to a hospital with minor upper-body injuries.",
+   "date_of_incident": "2026-09-25",
+   "company": "Zoox",
+   "category": "autonomous_vehicle",
+   "incident_type": "collision",
+   "severity": "minor_injury",
+   "location": "Las Vegas Boulevard near Four Seasons Drive, Las Vegas, Nevada",
+   "escalation_stage": "report",
+   "sources": 4
   }
  ]
 }
