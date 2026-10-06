@@ -1,9 +1,9 @@
 {
- "total": 282,
+ "total": 283,
  "by_category": {
   "autonomous_vehicle": 119,
   "humanoid": 34,
-  "delivery": 29,
+  "delivery": 30,
   "robot_arm": 28,
   "consumer": 24,
   "industrial": 14,
@@ -16,13 +16,13 @@
  "by_severity": {
   "minor_injury": 74,
   "no_harm": 74,
-  "property_damage": 52,
+  "property_damage": 53,
   "serious_injury": 44,
   "fatality": 37,
   "unknown": 1
  },
  "by_escalation_stage": {
-  "report": 189,
+  "report": 190,
   "follow_up": 38,
   "recall": 25,
   "investigation": 16,
@@ -41,9 +41,9 @@
   "Cruise": 11,
   "Starship Technologies": 9,
   "Avride": 4,
+  "Coco Robotics": 4,
   "Intuitive Surgical": 4,
   "Boston Dynamics": 4,
-  "Coco Robotics": 3,
   "Serve Robotics": 3,
   "iRobot": 3,
   "Baidu": 3,
@@ -96,7 +96,7 @@
   "2023": 24,
   "2024": 28,
   "2025": 76,
-  "2026": 90
+  "2026": 91
  },
- "exported_at": "2026-09-28T16:20:04+00:00"
+ "exported_at": "2026-10-06T14:38:11+00:00"
 }

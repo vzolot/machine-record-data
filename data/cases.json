@@ -4,8 +4,8 @@
  "note": "Case metadata is CC BY 4.0. Quoted source text remains with its publisher.",
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
- "exported_at": "2026-09-28T16:20:04+00:00",
- "total": 282,
+ "exported_at": "2026-10-06T14:38:11+00:00",
+ "total": 283,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -2267,7 +2267,7 @@
    "severity": "no_harm",
    "location": "Austin, Texas, USA",
    "escalation_stage": "follow_up",
-   "sources": 6
+   "sources": 7
   },
   {
    "ref": "TMR-0204",
@@ -3672,6 +3672,19 @@
    "location": "Las Vegas Boulevard near Four Seasons Drive, Las Vegas, Nevada",
    "escalation_stage": "report",
    "sources": 4
+  },
+  {
+   "ref": "TMR-0777",
+   "url": "https://themachinerecord.com/case/two-delivery-robots-operated-by-serve-robotics-and-coco-robotics-crashed-into-se-0777",
+   "title": "Two delivery robots operated by Serve Robotics and Coco Robotics crashed into separate CTA bus shelters in Chicago within days of each other in late March 2026.",
+   "date_of_incident": "2026-03-23",
+   "company": "Coco Robotics",
+   "category": "delivery",
+   "incident_type": "collision",
+   "severity": "property_damage",
+   "location": "Chicago, Illinois",
+   "escalation_stage": "report",
+   "sources": 2
   }
  ]
 }
