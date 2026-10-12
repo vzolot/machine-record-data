@@ -1,13 +1,13 @@
 {
- "total": 283,
+ "total": 276,
  "by_category": {
   "autonomous_vehicle": 119,
   "humanoid": 34,
   "delivery": 30,
-  "robot_arm": 28,
   "consumer": 24,
-  "industrial": 14,
+  "robot_arm": 22,
   "surgical": 14,
+  "industrial": 13,
   "service": 10,
   "other": 6,
   "warehouse_amr": 3,
@@ -18,22 +18,22 @@
   "no_harm": 74,
   "property_damage": 53,
   "serious_injury": 44,
-  "fatality": 37,
+  "fatality": 30,
   "unknown": 1
  },
  "by_escalation_stage": {
-  "report": 190,
-  "follow_up": 38,
+  "report": 186,
+  "follow_up": 37,
   "recall": 25,
-  "investigation": 16,
-  "lawsuit": 8,
+  "investigation": 15,
+  "lawsuit": 7,
   "regulator": 2,
   "fine": 2,
   "criminal_charge": 1,
   "settlement": 1
  },
  "by_company": {
-  "unattributed": 93,
+  "unattributed": 86,
   "Waymo": 69,
   "Tesla": 15,
   "Unitree Robotics": 11,
@@ -86,17 +86,17 @@
   "2013": 3,
   "2014": 2,
   "2015": 6,
-  "2016": 7,
+  "2016": 5,
   "2017": 3,
   "2018": 3,
   "2019": 8,
   "2020": 7,
   "2021": 11,
-  "2022": 12,
-  "2023": 24,
-  "2024": 28,
+  "2022": 11,
+  "2023": 23,
+  "2024": 25,
   "2025": 76,
   "2026": 91
  },
- "exported_at": "2026-10-06T14:38:11+00:00"
+ "exported_at": "2026-10-12T17:12:51+00:00"
 }

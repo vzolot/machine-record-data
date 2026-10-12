@@ -4,8 +4,8 @@
  "note": "Case metadata is CC BY 4.0. Quoted source text remains with its publisher.",
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
- "exported_at": "2026-10-06T14:38:11+00:00",
- "total": 283,
+ "exported_at": "2026-10-12T17:12:51+00:00",
+ "total": 276,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -278,7 +278,7 @@
    "severity": "fatality",
    "location": "Cusseta, Alabama, USA",
    "escalation_stage": "lawsuit",
-   "sources": 13
+   "sources": 21
   },
   {
    "ref": "TMR-0023",
@@ -318,19 +318,6 @@
    "location": "Baunatal, Germany",
    "escalation_stage": "follow_up",
    "sources": 5
-  },
-  {
-   "ref": "TMR-0026",
-   "url": "https://themachinerecord.com/case/a-robot-arm-crushed-a-worker-to-death-at-a-factory-in-thailand-according-to-the--0026",
-   "title": "A robot arm crushed a worker to death at a factory in Thailand, according to the article headline and brief text available.",
-   "date_of_incident": "2024-03-28",
-   "company": null,
-   "category": "robot_arm",
-   "incident_type": "fatality",
-   "severity": "fatality",
-   "location": "Thailand",
-   "escalation_stage": "report",
-   "sources": 1
   },
   {
    "ref": "TMR-0027",
@@ -524,19 +511,6 @@
    "incident_type": "lawsuit",
    "severity": "fatality",
    "location": "New London, Connecticut, USA",
-   "escalation_stage": "report",
-   "sources": 1
-  },
-  {
-   "ref": "TMR-0045",
-   "url": "https://themachinerecord.com/case/a-person-a-20-year-old-worker-at-ajin-usa-metal-stamping-plant-in-chambers-count-0045",
-   "title": "A 20-year-old worker at Ajin USA metal stamping plant in Chambers County, Alabama, was crushed to death on June 18, 2016, when a robotic arm started up while she was inside a machinery enclosure troubleshooting a sensor fault without following required lockout/tagout procedures.",
-   "date_of_incident": "2016-06-18",
-   "company": null,
-   "category": "robot_arm",
-   "incident_type": "fatality",
-   "severity": "fatality",
-   "location": "Chambers County, Alabama, USA",
    "escalation_stage": "report",
    "sources": 1
   },
@@ -1607,9 +1581,9 @@
    "sources": 1
   },
   {
-   "ref": "TMR-0134",
-   "url": "https://themachinerecord.com/case/a-man-in-his-40s-employed-by-an-industrial-robot-installation-company-was-crushe-0134",
-   "title": "A man in his 40s employed by an industrial robot installation company was crushed to death by a pick-and-place robotic arm at a vegetable-packaging plant in South Gyeongsang province, South Korea, after the robot apparently mistook him for a box of vegetables.",
+   "ref": "TMR-0135",
+   "url": "https://themachinerecord.com/case/a-robotics-company-employee-in-his-40s-was-crushed-to-death-by-a-robotic-arm-at--0135",
+   "title": "A robotics company employee in his 40s was crushed to death by a robotic arm at a pepper sorting plant in South Gyeongsang province, South Korea, after the arm confused him for a box of vegetables and pushed him against a conveyor belt.",
    "date_of_incident": "2023-11-07",
    "company": null,
    "category": "robot_arm",
@@ -1617,20 +1591,7 @@
    "severity": "fatality",
    "location": "South Gyeongsang province, South Korea",
    "escalation_stage": "follow_up",
-   "sources": 6
-  },
-  {
-   "ref": "TMR-0135",
-   "url": "https://themachinerecord.com/case/a-robotics-company-employee-in-his-40s-was-crushed-to-death-by-a-robotic-arm-at--0135",
-   "title": "A robotics company employee in his 40s was crushed to death by a robotic arm at a pepper sorting plant in South Gyeongsang province, South Korea, after the arm confused him for a box of vegetables and pushed him against a conveyor belt.",
-   "date_of_incident": "2023-11-08",
-   "company": null,
-   "category": "robot_arm",
-   "incident_type": "fatality",
-   "severity": "fatality",
-   "location": "South Gyeongsang province, South Korea",
-   "escalation_stage": "follow_up",
-   "sources": 27
+   "sources": 33
   },
   {
    "ref": "TMR-0136",
@@ -1646,19 +1607,6 @@
    "sources": 2
   },
   {
-   "ref": "TMR-0137",
-   "url": "https://themachinerecord.com/case/twenty-year-old-a-person-was-crushed-to-death-inside-a-robotic-welding-station-a-0137",
-   "title": "A twenty-year-old worker was crushed to death inside a robotic welding station at the Ajin USA facility in Cusseta, Alabama, when the robot abruptly restarted while she and co-workers were clearing a sensor fault.",
-   "date_of_incident": "2016-06-18",
-   "company": null,
-   "category": "robot_arm",
-   "incident_type": "fatality",
-   "severity": "fatality",
-   "location": "Cusseta, Alabama, USA",
-   "escalation_stage": "lawsuit",
-   "sources": 7
-  },
-  {
    "ref": "TMR-0138",
    "url": "https://themachinerecord.com/case/j-t-beckham-a-man-in-his-20s-was-killed-when-he-was-pinned-by-a-welding-robot-at-0138",
    "title": "J.T. Beckham, a man in his 20s, was killed when he was pinned by a welding robot at the Unipres USA manufacturing plant in Forest, Mississippi.",
@@ -1669,7 +1617,7 @@
    "severity": "fatality",
    "location": "Forest, Mississippi, USA",
    "escalation_stage": "report",
-   "sources": 1
+   "sources": 2
   },
   {
    "ref": "TMR-0139",
@@ -2228,33 +2176,7 @@
    "severity": "fatality",
    "location": "Chonburi, Thailand",
    "escalation_stage": "report",
-   "sources": 1
-  },
-  {
-   "ref": "TMR-0197",
-   "url": "https://themachinerecord.com/case/a-robot-arm-crushed-a-factory-worker-to-death-in-chon-buri-thailand-0197",
-   "title": "A robot arm crushed a factory worker to death in Chon Buri, Thailand.",
-   "date_of_incident": "2024-03-29",
-   "company": null,
-   "category": "robot_arm",
-   "incident_type": "fatality",
-   "severity": "fatality",
-   "location": "Chon Buri, Thailand",
-   "escalation_stage": "report",
-   "sources": 1
-  },
-  {
-   "ref": "TMR-0198",
-   "url": "https://themachinerecord.com/case/a-robot-arm-slammed-down-onto-a-worker-pinning-him-to-a-bench-and-killing-him-wh-0198",
-   "title": "A robot arm slammed down onto a worker, pinning him to a bench and killing him while he was laying out sheets of metal at the Vandapac factory in Chonburi province, Thailand.",
-   "date_of_incident": "2024-03-28",
-   "company": null,
-   "category": "robot_arm",
-   "incident_type": "fatality",
-   "severity": "fatality",
-   "location": "Chonburi, Thailand",
-   "escalation_stage": "report",
-   "sources": 1
+   "sources": 4
   },
   {
    "ref": "TMR-0199",
@@ -3340,19 +3262,6 @@
    "url": "https://themachinerecord.com/case/employee-dies-from-chest-injuries-when-crushed-by-robot-arm-0743",
    "title": "Employee Dies From Chest Injuries When Crushed By Robot Arm",
    "date_of_incident": "2024-02-22",
-   "company": null,
-   "category": "industrial",
-   "incident_type": "investigation",
-   "severity": "fatality",
-   "location": null,
-   "escalation_stage": "investigation",
-   "sources": 1
-  },
-  {
-   "ref": "TMR-0744",
-   "url": "https://themachinerecord.com/case/employee-is-killed-when-crushed-by-spot-welding-robot-0744",
-   "title": "Employee Is Killed When Crushed By Spot Welding Robot",
-   "date_of_incident": "2022-09-01",
    "company": null,
    "category": "industrial",
    "incident_type": "investigation",
