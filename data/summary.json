@@ -1,7 +1,7 @@
 {
- "total": 276,
+ "total": 279,
  "by_category": {
-  "autonomous_vehicle": 119,
+  "autonomous_vehicle": 122,
   "humanoid": 34,
   "delivery": 30,
   "consumer": 24,
@@ -14,7 +14,7 @@
   "agricultural": 1
  },
  "by_severity": {
-  "minor_injury": 74,
+  "minor_injury": 77,
   "no_harm": 74,
   "property_damage": 53,
   "serious_injury": 44,
@@ -22,7 +22,7 @@
   "unknown": 1
  },
  "by_escalation_stage": {
-  "report": 186,
+  "report": 189,
   "follow_up": 37,
   "recall": 25,
   "investigation": 15,
@@ -34,7 +34,7 @@
  },
  "by_company": {
   "unattributed": 86,
-  "Waymo": 69,
+  "Waymo": 72,
   "Tesla": 15,
   "Unitree Robotics": 11,
   "Zoox": 11,
@@ -96,7 +96,7 @@
   "2023": 23,
   "2024": 25,
   "2025": 76,
-  "2026": 91
+  "2026": 94
  },
- "exported_at": "2026-10-12T17:12:51+00:00"
+ "exported_at": "2026-10-16T12:55:40+00:00"
 }
