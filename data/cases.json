@@ -4,7 +4,7 @@
  "note": "Case metadata is CC BY 4.0. Quoted source text remains with its publisher.",
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
- "exported_at": "2026-10-16T12:55:40+00:00",
+ "exported_at": "2026-10-21T13:21:05+00:00",
  "total": 279,
  "cases": [
   {
@@ -499,7 +499,7 @@
    "severity": "fatality",
    "location": "Florida, USA",
    "escalation_stage": "lawsuit",
-   "sources": 7
+   "sources": 8
   },
   {
    "ref": "TMR-0044",
@@ -1500,7 +1500,7 @@
    "severity": "property_damage",
    "location": "Northern District of California, USA",
    "escalation_stage": "lawsuit",
-   "sources": 4
+   "sources": 5
   },
   {
    "ref": "TMR-0127",
