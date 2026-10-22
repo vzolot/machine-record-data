@@ -4,8 +4,8 @@
  "note": "Case metadata is CC BY 4.0. Quoted source text remains with its publisher.",
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
- "exported_at": "2026-10-21T13:21:05+00:00",
- "total": 279,
+ "exported_at": "2026-10-22T13:21:10+00:00",
+ "total": 286,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -2045,8 +2045,8 @@
    "incident_type": "fatality",
    "severity": "fatality",
    "location": null,
-   "escalation_stage": "fine",
-   "sources": 4
+   "escalation_stage": "criminal_charge",
+   "sources": 5
   },
   {
    "ref": "TMR-0176",
@@ -3514,8 +3514,8 @@
    "incident_type": "fine",
    "severity": "serious_injury",
    "location": "San Francisco, California",
-   "escalation_stage": "fine",
-   "sources": 4
+   "escalation_stage": "criminal_charge",
+   "sources": 5
   },
   {
    "ref": "TMR-0770",
@@ -3632,6 +3632,97 @@
    "severity": "minor_injury",
    "location": "Atlanta, GA",
    "escalation_stage": "report",
+   "sources": 1
+  },
+  {
+   "ref": "TMR-0890",
+   "url": "https://themachinerecord.com/case/cologne-police-seized-a-unitree-humanoid-robot-and-investigated-two-suspects-aft-0890",
+   "title": "Cologne police seized a Unitree humanoid robot and investigated two suspects after the robot allegedly groped a 16-year-old girl during a livestreamed incident on October 10, 2026, according to Cologne Police.",
+   "date_of_incident": "2026-10-10",
+   "company": "Unitree Robotics",
+   "category": "humanoid",
+   "incident_type": "injury",
+   "severity": "minor_injury",
+   "location": "Cologne, Germany",
+   "escalation_stage": "investigation",
+   "sources": 4
+  },
+  {
+   "ref": "TMR-0891",
+   "url": "https://themachinerecord.com/case/tesla-model-s-autopilot-crash-in-key-largo-on-april-25-2019-killed-one-person-an-0891",
+   "title": "Tesla Model S Autopilot crash in Key Largo on April 25, 2019 killed one person and seriously injured another, resulting in a $243 million jury verdict against Tesla now under appeal in the 11th Circuit.",
+   "date_of_incident": "2019-04-25",
+   "company": "Tesla",
+   "category": "autonomous_vehicle",
+   "incident_type": "lawsuit",
+   "severity": "fatality",
+   "location": "Key Largo, Florida",
+   "escalation_stage": "lawsuit",
+   "sources": 2
+  },
+  {
+   "ref": "TMR-0892",
+   "url": "https://themachinerecord.com/case/lawsuit-filed-against-intuitive-surgical-and-va-physicians-alleging-robotic-surg-0892",
+   "title": "Lawsuit filed against Intuitive Surgical and VA physicians alleging robotic surgery negligence led to the death of a patient on March 23, 2023.",
+   "date_of_incident": "2020-11-17",
+   "company": "Intuitive Surgical",
+   "category": "surgical",
+   "incident_type": "lawsuit",
+   "severity": "fatality",
+   "location": "Boston, Massachusetts (Jamaica Plains VA Medical Center) and Providence, Rhode Island (Providence VA Medical Center)",
+   "escalation_stage": "lawsuit",
+   "sources": 1
+  },
+  {
+   "ref": "TMR-0893",
+   "url": "https://themachinerecord.com/case/globus-medical-excelsius-gps-surgical-robot-allegedly-malfunctioned-during-spina-0893",
+   "title": "Globus Medical Excelsius GPS surgical robot allegedly malfunctioned during spinal surgery on January 16, 2025, causing misplaced pedicle screws and persistent neurological deficits in the patient, according to a federal lawsuit filed December 5, 2025.",
+   "date_of_incident": "2025-01-16",
+   "company": "Globus Medical",
+   "category": "surgical",
+   "incident_type": "lawsuit",
+   "severity": "serious_injury",
+   "location": "Merit Health River Oaks, Mississippi, USA",
+   "escalation_stage": "lawsuit",
+   "sources": 1
+  },
+  {
+   "ref": "TMR-0894",
+   "url": "https://themachinerecord.com/case/va-surgical-robot-procedure-at-charleston-vamc-resulted-in-compartment-syndrome--0894",
+   "title": "VA surgical robot procedure at Charleston VAMC resulted in compartment syndrome and permanent arm disability for a veteran in June 2024.",
+   "date_of_incident": "2024-06-13",
+   "company": "United States Department of Veterans Affairs",
+   "category": "surgical",
+   "incident_type": "lawsuit",
+   "severity": "serious_injury",
+   "location": "Ralph H. Johnson VA Medical Center, Charleston, South Carolina",
+   "escalation_stage": "lawsuit",
+   "sources": 1
+  },
+  {
+   "ref": "TMR-0895",
+   "url": "https://themachinerecord.com/case/a-robotic-e-gym-leg-press-machine-at-a-montgomery-alabama-ymca-malfunctioned-on--0895",
+   "title": "A Robotic E-GYM Leg Press machine at a Montgomery, Alabama YMCA malfunctioned on October 31, 2023, allegedly forcefully compressing a user's knees into her chest and causing sacroiliac joint dysfunction, piriformis syndrome, and sciatic nerve involvement.",
+   "date_of_incident": "2023-10-31",
+   "company": "E-GYM North America, Inc",
+   "category": "other",
+   "incident_type": "malfunction",
+   "severity": "serious_injury",
+   "location": "YMCA Bell Road facility, Montgomery, Alabama",
+   "escalation_stage": "lawsuit",
+   "sources": 1
+  },
+  {
+   "ref": "TMR-0896",
+   "url": "https://themachinerecord.com/case/tesla-autopilot-disengaged-mid-curve-on-a-rural-road-in-cocoa-florida-on-decembe-0896",
+   "title": "Tesla Autopilot disengaged mid-curve on a rural road in Cocoa, Florida on December 3, 2025, causing a collision with a utility pole that seriously injured the front-seat passenger.",
+   "date_of_incident": "2025-12-03",
+   "company": "Tesla",
+   "category": "autonomous_vehicle",
+   "incident_type": "collision",
+   "severity": "serious_injury",
+   "location": "Cocoa, Florida (Rosa L. Jones Drive, Brevard County)",
+   "escalation_stage": "lawsuit",
    "sources": 1
   }
  ]
