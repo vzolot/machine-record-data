@@ -7,18 +7,30 @@
     }
   ],
   "subtitle": "Robotaxi, delivery, industrial and humanoid robot incidents, 1979 to today",
-  "description": "Mirror of the public register at https://themachinerecord.com. One row per documented incident involving a commercial physical robot, with a permanent case page carrying the timeline and archived sources. Case metadata is CC BY 4.0. Not a safety rating: fleet sizes are not public.",
+  "description": "Mirror of the public register at https://themachinerecord.com. One row per documented incident involving a commercial physical robot, with a permanent case page carrying the timeline and archived sources. Case metadata is CC BY 4.0. Not a safety rating: fleet sizes are not public. Quarterly research releases with a codebook; see the GitHub repository vzolot/machine-record-data.",
   "keywords": [
     "robotics"
   ],
   "resources": [
     {
       "path": "data/cases.csv",
-      "description": "One row per published case"
+      "description": "One row per published case, 24 columns"
+    },
+    {
+      "path": "data/events.csv",
+      "description": "Timeline events, one row per event"
+    },
+    {
+      "path": "data/sources.csv",
+      "description": "Sources with tier, independence, language and archived copy"
+    },
+    {
+      "path": "data/sgo_links.csv",
+      "description": "News cases linked to NHTSA SGO filings"
     },
     {
       "path": "data/cases.json",
-      "description": "Same rows with licence header"
+      "description": "Case rows with licence header"
     }
   ]
 }

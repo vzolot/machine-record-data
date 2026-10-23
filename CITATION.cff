@@ -9,8 +9,8 @@ url: "https://themachinerecord.com"
 repository-code: "https://github.com/vzolot/machine-record-data"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.22925531
-version: 1.0.0
-date-released: 2026-09-22
+version: 1.1.0
+date-released: 2026-10-23
 keywords:
   - robot safety
   - robotaxi

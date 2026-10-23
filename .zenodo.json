@@ -1,6 +1,6 @@
 {
   "title": "The Machine Record: incidents involving commercial physical robots",
-  "description": "Case metadata of The Machine Record, a public register of incidents involving commercial physical robots (robotaxis, delivery robots, warehouse and industrial machines, surgical systems, humanoids). One row per documented incident, with a permanent case page that carries the timeline from first report to any recall, investigation, lawsuit or settlement, and the archived sources. Refreshed daily from the site's open API. Not a safety rating: fleet sizes are not public.",
+  "description": "Case metadata of The Machine Record, a public register of incidents involving commercial physical robots (robotaxis, delivery robots, warehouse and industrial machines, surgical systems, humanoids). Four tables: cases (one row per documented incident), timeline events, sources with tiers and archived copies, and links to NHTSA Standing General Order filings. Each case carries with a permanent case page that carries the timeline from first report to any recall, investigation, lawsuit or settlement, and the archived sources. Quarterly research releases with a codebook, annotation guidelines and known limitations; refreshed daily from the site's open API between releases. Not a safety rating: fleet sizes are not public.",
   "creators": [
     {
       "name": "The Machine Record"
@@ -29,5 +29,6 @@
       "relation": "isIdenticalTo",
       "resource_type": "dataset"
     }
-  ]
+  ],
+  "version": "1.1.0"
 }

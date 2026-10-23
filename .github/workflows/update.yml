@@ -66,6 +66,6 @@ jobs:
         if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && env.KAGGLE_API_TOKEN != ''
         run: |
           pip install -q kaggle
-          mkdir -p kaggle/data && cp data/cases.csv data/cases.json kaggle/data/
+          mkdir -p kaggle/data && cp data/cases.csv data/events.csv data/sources.csv data/sgo_links.csv data/cases.json kaggle/data/
           cd kaggle
           kaggle datasets version -p . -m "Data refresh $(date -u +%Y-%m-%d)" --dir-mode zip || kaggle datasets create -p . --dir-mode zip --public

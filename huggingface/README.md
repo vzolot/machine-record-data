@@ -21,6 +21,18 @@ configs:
     data_files:
       - split: train
         path: data/cases.csv
+  - config_name: events
+    data_files:
+      - split: train
+        path: data/events.csv
+  - config_name: sources
+    data_files:
+      - split: train
+        path: data/sources.csv
+  - config_name: sgo_links
+    data_files:
+      - split: train
+        path: data/sgo_links.csv
 ---
 
 # The Machine Record: incidents involving commercial physical robots
@@ -32,7 +44,9 @@ systems, humanoids), with a permanent case page that carries the timeline from
 first report through any recall, investigation, lawsuit or settlement, and the
 archived sources.
 
-- One row per case, 11 columns; see the column table on GitHub:
+- Four tables: cases (24 columns), timeline events, sources with tiers and
+  archived copies, links to NHTSA Standing General Order filings. Codebook,
+  annotation guidelines and limitations on GitHub:
   https://github.com/vzolot/machine-record-data
 - Refreshed daily from the site's open API
 - Not a safety rating: fleet sizes are not public, so rates cannot be computed

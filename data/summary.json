@@ -1,7 +1,11 @@
 {
- "total": 286,
+ "total": 284,
+ "events": 720,
+ "sources": 694,
+ "distinct_source_domains": 326,
+ "sgo_links": 14,
  "by_category": {
-  "autonomous_vehicle": 124,
+  "autonomous_vehicle": 122,
   "humanoid": 35,
   "delivery": 30,
   "consumer": 24,
@@ -15,14 +19,13 @@
  },
  "by_severity": {
   "minor_injury": 78,
-  "no_harm": 74,
+  "no_harm": 75,
   "property_damage": 53,
-  "serious_injury": 48,
-  "fatality": 32,
-  "unknown": 1
+  "serious_injury": 46,
+  "fatality": 32
  },
  "by_escalation_stage": {
-  "report": 189,
+  "report": 187,
   "follow_up": 37,
   "recall": 25,
   "investigation": 16,
@@ -31,14 +34,21 @@
   "regulator": 2,
   "settlement": 1
  },
+ "by_origin": {
+  "news": 213,
+  "nhtsa": 54,
+  "osha": 11,
+  "cpsc": 3,
+  "safetygate": 3
+ },
  "by_company": {
   "unattributed": 86,
   "Waymo": 72,
   "Tesla": 17,
   "Unitree Robotics": 12,
   "Zoox": 11,
-  "Cruise": 11,
   "Starship Technologies": 9,
+  "Cruise": 9,
   "Intuitive Surgical": 5,
   "Avride": 4,
   "Coco Robotics": 4,
@@ -94,10 +104,13 @@
   "2020": 8,
   "2021": 11,
   "2022": 11,
-  "2023": 24,
+  "2023": 22,
   "2024": 26,
   "2025": 78,
   "2026": 95
  },
- "exported_at": "2026-10-22T13:21:10+00:00"
+ "by_source_language": {
+  "unknown": 694
+ },
+ "exported_at": "2026-10-23T14:31:48+00:00"
 }
