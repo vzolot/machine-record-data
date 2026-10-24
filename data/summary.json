@@ -42,14 +42,14 @@
   "safetygate": 3
  },
  "by_company": {
-  "unattributed": 86,
-  "Waymo": 72,
+  "unattributed": 82,
+  "Waymo": 73,
   "Tesla": 17,
   "Unitree Robotics": 12,
-  "Zoox": 11,
+  "Zoox": 12,
   "Starship Technologies": 9,
   "Cruise": 9,
-  "Intuitive Surgical": 5,
+  "Intuitive Surgical": 7,
   "Avride": 4,
   "Coco Robotics": 4,
   "Boston Dynamics": 4,
@@ -112,5 +112,5 @@
  "by_source_language": {
   "unknown": 694
  },
- "exported_at": "2026-10-23T14:31:48+00:00"
+ "exported_at": "2026-10-24T12:23:04+00:00"
 }
