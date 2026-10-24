@@ -36,7 +36,7 @@ Rows with `origin` of `nhtsa`, `osha`, `cpsc` or `safetygate` were created from 
 
 ## 9. Duplicates have been found and merged, and more may exist
 
-The same event can arrive months apart under different company names or with dates one or two days apart, and automatic matching does not always catch it. Merged cases keep their reference as a redirect to the surviving case and are not in this file. If you find two rows for one event, write to corrections@themachinerecord.com.
+The same event can arrive months apart under different company names or with dates one or two days apart, and automatic matching does not always catch it. A sweep on 2026-10-24, in which a language model read every candidate pair and the editor confirmed, merged 29 rows into 23 events, about one published case in ten; the method is in the register's pipeline as `dedupe_review`, and it will run again before each release. Merged cases keep their reference as a redirect to the surviving case and are not in this file. If you find two rows for one event, write to corrections@themachinerecord.com.
 
 ## 10. Links to NHTSA filings are rule-based and incomplete
 
