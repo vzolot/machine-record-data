@@ -12,13 +12,14 @@ Vocabulary and rules, following the pilot
 - `severity` of a case built on a court filing is what the filing alleges. A unit that catches fire is `property_damage` only when something other than the unit was damaged.
 - `follow_up` is defined from the timeline, not from a single article.
 - `environment` is `street` on every NHTSA row.
+- `date_precision` gains the value `year`, for events the sources date only to a year; `date_of_incident` is then the first of January by convention.
 
 Data
 
 - `environment` filled on 54 NHTSA cases (`street`) and corrected to `venue` on five cases coded `other` before that value existed.
 - Company filled on four cases where every source named the maker (TMR-0153, TMR-0224, TMR-0229, TMR-0245).
 - Date of TMR-0024 corrected to 2015-06-29.
-- Eleven cases referred for a human read, listed in the pilot report.
+- Eleven cases referred for a human read, listed in the pilot report. Decided on 2026-10-24: TMR-0141 withdrawn (the article describes no malfunction, harm or regulatory action); TMR-0021 and TMR-0139 moved to `year` precision (2021) and their company set to KUKA, the maker of the arm, in place of the operator; TMR-0143 company set to Tesla, the striking machine's maker, in place of the struck robot's.
 
 ## 1.1.0 (2026-10-23): first research release
 

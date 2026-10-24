@@ -13,7 +13,7 @@ One row per published case. The first eleven columns keep the names and order of
 | `ref` | string | Stable case reference, `TMR-0123`. Never reused. A merged duplicate keeps its reference as a redirect and does not appear here |
 | `url` | string | Permanent case page with timeline, sources, corrections and any dispute |
 | `title` | string | One factual sentence describing the event, in English, without names of private individuals |
-| `date_of_incident` | date | Date the event happened. When `date_precision` is `month`, the first day of that month by convention |
+| `date_of_incident` | date | Date the event happened. When `date_precision` is `month`, the first day of that month by convention; when it is `year`, the first of January of that year |
 | `company` | string | Manufacturer or operator named in the sources as responsible for the machine; empty if none named |
 | `category` | enum | Kind of machine: `autonomous_vehicle`, `delivery`, `humanoid`, `robot_arm`, `cobot`, `industrial`, `warehouse_amr`, `surgical`, `consumer`, `service`, `agricultural`, `other` |
 | `incident_type` | enum | What happened: `collision`, `malfunction`, `injury`, `fatality`, `fire`, `near_miss`, `entrapment`, `runaway`, `property_damage`, `recall`, `investigation`, `lawsuit`, `settlement`, `fine`, `citation`, `other` |
@@ -21,7 +21,7 @@ One row per published case. The first eleven columns keep the names and order of
 | `location` | string | Free text as reported, most specific place the sources agree on; not geocoded |
 | `escalation_stage` | enum, ordered | Furthest consequence on record: `report` < `follow_up` < `investigation` < `regulator` < `recall` < `fine` < `lawsuit` < `settlement` < `criminal_charge` |
 | `sources` | integer | Number of distinct sources linked to the case |
-| `date_precision` | enum | `day` or `month` |
+| `date_precision` | enum | `day`, `month` or `year` |
 | `environment` | enum | Where the machine was operating: `street`, `factory`, `warehouse`, `home`, `hospital`, `retail`, `venue`, `other`; empty when the sources do not say |
 | `robot_model` | string | Product name as the maker writes it; empty if not given |
 | `company_slug` | string | Key of the company page, `https://themachinerecord.com/company/<company_slug>` |

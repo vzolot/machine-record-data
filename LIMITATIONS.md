@@ -20,7 +20,7 @@ Until release 1.1.0 an incident in Shenzhen or Osaka entered the register only i
 
 ## 5. Dates and places carry stated precision
 
-`date_precision` is `day` or `month`. Where it is `month`, `date_of_incident` is the first of that month by convention; the event happened some time in that month. NHTSA filings only ever give the month. `location` is free text as reported and has not been geocoded; the same city appears with and without a state or country.
+`date_precision` is `day`, `month` or `year`. Where it is `month`, `date_of_incident` is the first of that month by convention; the event happened some time in that month. Where it is `year`, it is the first of January and the event happened some time in that year. NHTSA filings only ever give the month. `location` is free text as reported and has not been geocoded; the same city appears with and without a state or country.
 
 ## 6. Fields were extracted by a language model, then gated by rules
 
