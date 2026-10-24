@@ -71,17 +71,21 @@ What happened, one value. When several apply, the most consequential wins in thi
 | `fine` | the case is a fine or penalty |
 | `citation` | the case is a regulator's citation |
 
+A row created from a regulator's document carries the type of that document, not of the underlying event: `origin = nhtsa` is `collision` (a Standing General Order filing is a crash report), `origin = osha` is `investigation` (an inspection record), `origin = cpsc` and `origin = safetygate` are `recall`. The harm is in `severity`. A press case about the same event is coded from the event.
+
 ### `severity` (closed set, ordered)
 
 The worst outcome to a person the sources establish. `no_harm` < `property_damage` < `minor_injury` < `serious_injury` < `fatality`. Minor: treated at the scene or outpatient. Serious: hospitalised, or an injury the sources call serious, critical or life-changing. If the sources say "injured" without detail, code `minor_injury`. Never upgrade on speculation. Severity in NHTSA-origin rows follows the operator's own label (minor or serious with or without hospitalisation, fatality).
 
+Two conventions the first inter-rater pilot showed were missing. A case built on a court filing takes the severity the filing alleges; the `lawsuit` stage already marks it as an allegation, and coding every complaint as `no_harm` would empty the field. A unit that catches fire or overheats is `property_damage` only when the sources report damage to something other than the unit itself; a recall after fires contained to the device is `no_harm` with `incident_type = recall` or `fire`.
+
 ### `environment` (closed set)
 
-Where the machine was operating: `street` (roads, sidewalks, parking, public space outdoors), `factory`, `warehouse`, `home`, `hospital`, `retail`, `venue` (events, sports halls, exhibitions, gyms), `other`.
+Where the machine was operating: `street` (roads, sidewalks, parking, public space outdoors), `factory`, `warehouse`, `home`, `hospital`, `retail`, `venue` (events, sports halls, exhibitions, gyms, stages, festivals), `other`. Every NHTSA-origin row is `street`. Rows from OSHA inspection records are left empty until the record says whether the workplace was a factory or a warehouse.
 
 ### `escalation_stage` and `stage_evidence`
 
-The furthest point the consequences reached, as recorded on the timeline. The stages, from least to most consequential: `report`, `follow_up`, `investigation`, `regulator`, `recall`, `fine`, `lawsuit`, `settlement`, `criminal_charge`. A stage is `document` when established by a regulator or court document linked to the case, otherwise `press`. A tabloid saying a company "was fined" does not set the stage to fine; a regulator's notice does.
+The furthest point the consequences reached, as recorded on the timeline. The stages, from least to most consequential: `report`, `follow_up`, `investigation`, `regulator`, `recall`, `fine`, `lawsuit`, `settlement`, `criminal_charge`. A stage is `document` when established by a regulator or court document linked to the case, otherwise `press`. A tabloid saying a company "was fined" does not set the stage to fine; a regulator's notice does. The stage is read off the timeline, not off any one article: `follow_up` means a later source added facts after the first report, and a second annotator working from a single story should code `report` unless that story itself reports a later development.
 
 ### `title` and `summary`
 
@@ -103,4 +107,6 @@ A case publishes only when every rule in the [tmr-gates](https://github.com/vzol
 
 ## For a second annotator
 
-To double-code a case: open the case page, read every linked source, and assign every field above from the sources alone, without reading the register's own values first. Record disagreements per field. Severity, incident type and category are the fields the inter-rater study will report Cohen's kappa on.
+To double-code a case: open the case page, read every linked source, and assign every field above from the sources alone, without reading the register's own values first. Record one row per case and field in the layout of `irr/*.csv` (`ref, origin, field, register, annotator_b`) and run `scripts/kappa.py` on it. Severity, incident type and category are the fields the inter-rater study reports Cohen's kappa on; environment and escalation stage are reported alongside.
+
+The first pilot, with a second language model as the blind annotator rather than a person, is in `irr/`. It is the dry run for the human study: the same sample, form and script.

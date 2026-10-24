@@ -24,7 +24,7 @@ in every row carries the timeline, the sources and any correction or dispute.
 | `data/cases.json` | The case rows, with the licence and export time in the header |
 | `data/summary.json` | Counts by category, severity, escalation stage, origin, company, year and source language |
 
-Column definitions: [CODEBOOK.md](CODEBOOK.md). How fields are assigned: [ANNOTATION_GUIDELINES.md](ANNOTATION_GUIDELINES.md). What the data cannot support: [LIMITATIONS.md](LIMITATIONS.md). Releases: [CHANGELOG.md](CHANGELOG.md).
+Column definitions: [CODEBOOK.md](CODEBOOK.md). How fields are assigned: [ANNOTATION_GUIDELINES.md](ANNOTATION_GUIDELINES.md). What the data cannot support: [LIMITATIONS.md](LIMITATIONS.md). How reproducible the labels are: [irr/](irr/2026-10-model-pilot.md). Releases: [CHANGELOG.md](CHANGELOG.md).
 
 ## Columns
 
