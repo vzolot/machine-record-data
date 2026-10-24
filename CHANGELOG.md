@@ -19,7 +19,8 @@ Data
 - `environment` filled on 54 NHTSA cases (`street`) and corrected to `venue` on five cases coded `other` before that value existed.
 - Company filled on four cases where every source named the maker (TMR-0153, TMR-0224, TMR-0229, TMR-0245).
 - Date of TMR-0024 corrected to 2015-06-29.
-- Eleven cases referred for a human read, listed in the pilot report. Decided on 2026-10-24: TMR-0141 withdrawn (the article describes no malfunction, harm or regulatory action); TMR-0021 and TMR-0139 moved to `year` precision (2021) and their company set to KUKA, the maker of the arm, in place of the operator; TMR-0143 company set to Tesla, the striking machine's maker, in place of the struck robot's.
+- Eleven cases referred for a human read, listed in the pilot report. Decided on 2026-10-24: TMR-0141 withdrawn (the article describes no malfunction, harm or regulatory action); TMR-0021 and TMR-0139 moved to `year` precision (2021) and their company set to KUKA, the maker of the arm, in place of the operator; TMR-0143 company set to Tesla, the striking machine's maker, in place of the struck robot's, and its category to `autonomous_vehicle`.
+- Later the same day: TMR-0021 merged into TMR-0139 as one event (its reference redirects); a 2025 lawsuit about a different worker detached from TMR-0139, whose stage is now `follow_up`; TMR-0173, the 2020 penalty for the 2016 Ajin USA death, merged into TMR-0022, whose stage is now `criminal_charge` on the federal docket; TMR-0245 dated to the surgery (2012-09-26) rather than the article; TMR-0050 raised to `property_damage` (nine incidents of property damage in the CPSC notice); TMR-0170 and TMR-0205 lowered to `no_harm` (fires contained to the unit), TMR-0170 stage set to `recall` with 2,606 units and one report; TMR-0892 kept as it was, the complaint itself dates the surgery to 2020-11-17 and alleges a death.
 
 ## 1.1.0 (2026-10-23): first research release
 
