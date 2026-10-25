@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-10-24T19:19:44+00:00",
- "total": 253,
+ "exported_at": "2026-10-25T12:53:14+00:00",
+ "total": 255,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -643,7 +643,7 @@
    "severity": "property_damage",
    "location": "Moscow, Russia",
    "escalation_stage": "follow_up",
-   "sources": 34,
+   "sources": 36,
    "date_precision": "day",
    "environment": "venue",
    "robot_model": "AIdol",
@@ -654,9 +654,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 34,
+   "events": 36,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:59.138132+00"
+   "updated_at": "2026-10-25 10:50:00.321866+00"
   },
   {
    "ref": "TMR-0037",
@@ -3841,7 +3841,7 @@
    "severity": "minor_injury",
    "location": "Santa Monica, California, USA",
    "escalation_stage": "investigation",
-   "sources": 7,
+   "sources": 8,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -3852,9 +3852,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 8,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:59.968606+00"
+   "updated_at": "2026-10-25 12:47:06.224504+00"
   },
   {
    "ref": "TMR-0196",
@@ -6585,6 +6585,58 @@
    "events": 8,
    "published_at": "2026-08-02 21:58:43.286187+00",
    "updated_at": "2026-10-24 19:04:34.417164+00"
+  },
+  {
+   "ref": "TMR-0898",
+   "url": "https://themachinerecord.com/case/an-iamo-autonomous-taxi-struck-a-ground-plate-during-a-test-drive-in-danikon-dam-0898",
+   "title": "An iamo autonomous taxi struck a ground plate during a test drive in Dänikon, damaging the plate and two tires.",
+   "date_of_incident": "2026-09-25",
+   "company": null,
+   "category": "autonomous_vehicle",
+   "incident_type": "malfunction",
+   "severity": "property_damage",
+   "location": "Dänikon, Canton Zurich, Switzerland",
+   "escalation_stage": "report",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": "Nissan prototype (autonomous vehicle)",
+   "company_slug": null,
+   "summary": "Three days before the public launch of the iamo autonomous taxi pilot project in the Furttal region, a test vehicle drove through a 30 km/h zone in Danikon and failed to recognise a ground plate as an obstacle, running over it without input from the safety driver on board. The incident damaged the plate and both right-side tires of the Nissan prototype vehicle. The Swiss Federal Roads Office confirmed that the remaining fleet could continue operating safely. The software was analysed and adjusted following the incident.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-10-25 10:29:26.219788+00",
+   "updated_at": "2026-10-25 10:29:26.219788+00"
+  },
+  {
+   "ref": "TMR-0899",
+   "url": "https://themachinerecord.com/case/autonomous-community-bus-kurulin-in-fukaya-saitama-collided-with-a-roadside-fenc-0899",
+   "title": "Autonomous community bus 'Kurulin' in Fukaya, Saitama collided with a roadside fence and bus stop sign on 6 September 2026, causing property damage but no injuries.",
+   "date_of_incident": "2026-09-06",
+   "company": "Saitama Institute of Technology",
+   "category": "autonomous_vehicle",
+   "incident_type": "collision",
+   "severity": "property_damage",
+   "location": "Fukaya, Saitama, Japan",
+   "escalation_stage": "report",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": null,
+   "company_slug": "saitama-institute-of-technology",
+   "summary": "On 6 September 2026 at around 12:40 pm, the autonomous community bus 'Kurulin' operating on the 'Hokubu Shuttle + Kanko' route in Fukaya, Saitama drifted from its lane near Arai Post Office and struck a water-channel fence and a bus stop sign. No passengers were on board and none of the three occupants (one driver and two autonomous-driving assistants) were injured. The city suspended autonomous operation indefinitely pending safety checks. The city and Saitama Institute of Technology, which developed the vehicle's autonomous system, attributed the cause to a sensor malfunction. This was the second property-damage incident involving the same bus, following a kerb collision in January 2026.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-10-25 10:42:47.210619+00",
+   "updated_at": "2026-10-25 10:42:47.210619+00"
   }
  ]
 }

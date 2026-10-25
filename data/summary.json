@@ -1,11 +1,11 @@
 {
- "total": 253,
- "events": 718,
- "sources": 689,
- "distinct_source_domains": 325,
- "sgo_links": 14,
+ "total": 255,
+ "events": 725,
+ "sources": 695,
+ "distinct_source_domains": 331,
+ "sgo_links": 15,
  "by_category": {
-  "autonomous_vehicle": 110,
+  "autonomous_vehicle": 112,
   "humanoid": 28,
   "delivery": 25,
   "consumer": 24,
@@ -20,12 +20,12 @@
  "by_severity": {
   "minor_injury": 72,
   "no_harm": 60,
-  "property_damage": 48,
+  "property_damage": 50,
   "serious_injury": 44,
   "fatality": 29
  },
  "by_escalation_stage": {
-  "report": 166,
+  "report": 168,
   "follow_up": 31,
   "recall": 23,
   "investigation": 16,
@@ -35,7 +35,7 @@
   "settlement": 1
  },
  "by_origin": {
-  "news": 182,
+  "news": 184,
   "nhtsa": 54,
   "osha": 11,
   "cpsc": 3,
@@ -43,7 +43,7 @@
  },
  "by_company": {
   "Waymo": 72,
-  "unattributed": 66,
+  "unattributed": 67,
   "Tesla": 15,
   "Unitree Robotics": 9,
   "Zoox": 9,
@@ -88,7 +88,8 @@
   "Kyoto Humanoid Association (KyoHA)": 1,
   "Xpeng": 1,
   "United States Department of Veterans Affairs": 1,
-  "E-GYM North America, Inc": 1
+  "E-GYM North America, Inc": 1,
+  "Saitama Institute of Technology": 1
  },
  "by_year": {
   "1979": 1,
@@ -107,10 +108,12 @@
   "2023": 18,
   "2024": 26,
   "2025": 68,
-  "2026": 83
+  "2026": 85
  },
  "by_source_language": {
-  "unknown": 689
+  "unknown": 689,
+  "ja": 4,
+  "de": 2
  },
- "exported_at": "2026-10-24T19:19:44+00:00"
+ "exported_at": "2026-10-25T12:53:14+00:00"
 }
