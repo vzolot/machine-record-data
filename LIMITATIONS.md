@@ -16,7 +16,7 @@ Rates per million miles exist where an operator reports both its crashes to NHTS
 
 ## 4. Coverage was English-only until October 2026
 
-Until release 1.1.0 an incident in Shenzhen or Osaka entered the register only if somebody wrote about it in English. The collector now also reads German, French, Italian, Spanish, Dutch, Polish, Japanese, Korean and Chinese press, with the same gates, and `sources.lang` records the language of every source. That coverage is newer and thinner, so Asia and continental Europe remain under-represented relative to reality, and the share of non-English sources in this release is small.
+Until release 1.1.0 an incident in Shenzhen or Osaka entered the register only if somebody wrote about it in English. The collector now also reads German, French, Italian, Spanish, Dutch, Polish, Japanese, Korean and Chinese press, with the same gates, and `sources.lang` records the language of every source. That coverage is newer and thinner, so Asia and continental Europe remain under-represented relative to reality, and the share of non-English sources in this release is small. Since 2026-10-25 such press is judged with two disclosed allowances, recorded on each case: a named private individual or an event reported late does not block on its own, and the risk ceiling is 0.5 instead of 0.35; the two-source rule, the tiers and the rules for deaths and serious injuries are the same as for English press.
 
 ## 5. Dates and places carry stated precision
 

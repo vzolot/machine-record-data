@@ -25,6 +25,11 @@ Data
 - TMR-0051 split: it held two Waymo recalls, 1,212 vehicles in May 2025 (gates and chains) and 3,791 in May 2026 (flooded roads); the second is now TMR-0897.
 - `environment = factory` on the eleven OSHA cases, after reading each narrative.
 
+Method, 2026-10-25
+
+- Press in a language other than English is judged with two disclosed allowances (tmr-gates 0.2.0, `evaluate(..., lang=)`): the adversarial flags `named_private_individual` and `stale_as_new` do not block on their own, because the name stripper removes the name before publication and the event date is still required, and the risk ceiling is 0.5 instead of 0.35. The two-source rule, the tiers, the three-source rule for deaths and serious injuries and the date rules are unchanged. The allowances are recorded on each case's audit entry (`flags_waived`, `foreign_press`). Reason: a first pass over 300 non-English finds published nothing, with these two flags and the ceiling accounting for most refusals after verification.
+- The verification prompt now resolves relative dates in local press ("yesterday", "am Montag", "昨日") against the source's publication date instead of leaving the event undated.
+
 ## 1.1.0 (2026-10-23): first research release
 
 Data as of 2026-10-23: 284 published cases, 720 timeline events, 694 source links across 326 domains, 14 links to NHTSA filings. Release 1.0.0 had 230 cases.
