@@ -1,8 +1,8 @@
 {
  "total": 255,
- "events": 725,
- "sources": 695,
- "distinct_source_domains": 331,
+ "events": 302,
+ "sources": 694,
+ "distinct_source_domains": 330,
  "sgo_links": 15,
  "by_category": {
   "autonomous_vehicle": 112,
@@ -25,13 +25,13 @@
   "fatality": 29
  },
  "by_escalation_stage": {
-  "report": 168,
-  "follow_up": 31,
-  "recall": 23,
+  "report": 167,
+  "follow_up": 29,
+  "recall": 24,
   "investigation": 16,
-  "lawsuit": 11,
+  "lawsuit": 12,
   "criminal_charge": 3,
-  "regulator": 2,
+  "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
@@ -43,7 +43,7 @@
  },
  "by_company": {
   "Waymo": 72,
-  "unattributed": 67,
+  "unattributed": 66,
   "Tesla": 15,
   "Unitree Robotics": 9,
   "Zoox": 9,
@@ -66,6 +66,7 @@
   "Uber Eats": 1,
   "Kiwibot": 1,
   "Knightscope": 1,
+  "Ajin USA (Joon LLC)": 1,
   "Volkswagen": 1,
   "EngineAI": 1,
   "AIDOL": 1,
@@ -111,9 +112,9 @@
   "2026": 85
  },
  "by_source_language": {
-  "unknown": 689,
+  "unknown": 688,
   "ja": 4,
   "de": 2
  },
- "exported_at": "2026-10-25T12:53:14+00:00"
+ "exported_at": "2026-10-26T14:44:20+00:00"
 }

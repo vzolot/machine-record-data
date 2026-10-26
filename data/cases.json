@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-10-25T12:53:14+00:00",
+ "exported_at": "2026-10-26T14:44:20+00:00",
  "total": 255,
  "cases": [
   {
@@ -30,9 +30,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:44.25481+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0002",
@@ -134,9 +134,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:50.257285+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0007",
@@ -160,9 +160,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:51.308936+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0008",
@@ -212,9 +212,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 6,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:45.617886+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0011",
@@ -264,9 +264,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 9,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:52.941006+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0013",
@@ -342,9 +342,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:46.406547+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0017",
@@ -368,9 +368,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:54.474003+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0018",
@@ -455,26 +455,26 @@
    "url": "https://themachinerecord.com/case/a-person-20-was-killed-when-a-robot-at-the-ajin-usa-plant-in-cusseta-alabama-res-0022",
    "title": "A 20-year-old worker was killed when a robot at the Ajin USA plant in Cusseta, Alabama restarted abruptly while she was inside a robotic station clearing a sensor fault on a stopped assembly line.",
    "date_of_incident": "2016-06-18",
-   "company": null,
+   "company": "Ajin USA (Joon LLC)",
    "category": "robot_arm",
    "incident_type": "fatality",
    "severity": "fatality",
    "location": "Cusseta, Alabama, USA",
    "escalation_stage": "criminal_charge",
-   "sources": 28,
+   "sources": 22,
    "date_precision": "day",
    "environment": "factory",
    "robot_model": null,
-   "company_slug": null,
+   "company_slug": "ajin-usa-joon-llc",
    "summary": "A 20-year-old worker was killed when a robot at the Ajin USA plant in Cusseta, Alabama restarted abruptly while she was inside a robotic station clearing a sensor fault on a stopped assembly line.",
    "origin": "news",
    "stage_evidence": "document",
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 28,
+   "events": 6,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:05.452064+00"
+   "updated_at": "2026-10-25 21:19:20.01109+00"
   },
   {
    "ref": "TMR-0023",
@@ -524,9 +524,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 22,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:55.244626+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0028",
@@ -602,9 +602,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 9,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:48.652939+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0034",
@@ -628,9 +628,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:48.783544+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0035",
@@ -654,9 +654,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 36,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 10:50:00.321866+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0037",
@@ -680,9 +680,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 3,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:47.884914+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0038",
@@ -758,9 +758,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:30:59.598725+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0043",
@@ -784,9 +784,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 8,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-20 22:37:45.364503+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0044",
@@ -888,9 +888,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 25,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:40.915309+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0049",
@@ -914,9 +914,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 10,
+   "events": 5,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:41.16966+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0050",
@@ -940,9 +940,9 @@
    "disputed": false,
    "units_affected": 5000,
    "incident_reports": 10,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 18:44:54.567972+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0051",
@@ -966,9 +966,9 @@
    "disputed": true,
    "units_affected": 1212,
    "incident_reports": 16,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:04:34.417164+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0052",
@@ -992,9 +992,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 3,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:41.676788+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0053",
@@ -1278,9 +1278,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:43.559341+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0066",
@@ -1330,9 +1330,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:33:41.551338+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0069",
@@ -1408,9 +1408,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 3,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:53.69219+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0072",
@@ -1538,9 +1538,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:01.512066+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0079",
@@ -1552,7 +1552,7 @@
    "incident_type": "collision",
    "severity": "serious_injury",
    "location": "Zhuzhou, China",
-   "escalation_stage": "follow_up",
+   "escalation_stage": "regulator",
    "sources": 4,
    "date_precision": "day",
    "environment": "street",
@@ -1564,9 +1564,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:07.904243+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0080",
@@ -1668,9 +1668,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:00.589176+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0084",
@@ -1746,9 +1746,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 3,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:48.689256+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0089",
@@ -1772,9 +1772,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:48.731694+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0090",
@@ -1798,9 +1798,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 3,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:48.985584+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0091",
@@ -1824,9 +1824,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:49.241255+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0092",
@@ -1850,9 +1850,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 9,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:00.835577+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0093",
@@ -1980,9 +1980,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:57.114303+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0098",
@@ -2162,9 +2162,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:49.496451+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0105",
@@ -2474,9 +2474,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:01.815251+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0119",
@@ -2500,9 +2500,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 45,
+   "events": 10,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-23 13:00:22.844497+00"
+   "updated_at": "2026-10-25 21:19:20.01109+00"
   },
   {
    "ref": "TMR-0121",
@@ -2526,9 +2526,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:51.847811+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0123",
@@ -2552,9 +2552,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 8,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:59.212939+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0124",
@@ -2630,9 +2630,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-20 22:36:41.87984+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0127",
@@ -2760,9 +2760,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 6,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 09:10:06.102119+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0133",
@@ -2812,9 +2812,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 33,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-12 08:41:53.792545+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0136",
@@ -2838,9 +2838,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:02.157343+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0138",
@@ -2864,9 +2864,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-12 08:41:33.283031+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0139",
@@ -2890,9 +2890,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 13,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 18:44:52.283717+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0142",
@@ -3046,9 +3046,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:03.604413+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0148",
@@ -3072,9 +3072,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:03.734024+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0149",
@@ -3098,9 +3098,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:03.863118+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0150",
@@ -3242,8 +3242,8 @@
    "incident_type": "fatality",
    "severity": "fatality",
    "location": "Ionia, Michigan, USA",
-   "escalation_stage": "report",
-   "sources": 2,
+   "escalation_stage": "lawsuit",
+   "sources": 8,
    "date_precision": "day",
    "environment": "factory",
    "robot_model": null,
@@ -3256,7 +3256,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:04.655267+00"
+   "updated_at": "2026-10-25 21:19:20.01109+00"
   },
   {
    "ref": "TMR-0156",
@@ -3358,9 +3358,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 4,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:59.922206+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0160",
@@ -3410,9 +3410,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:05.452081+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0162",
@@ -3462,9 +3462,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 9,
+   "events": 4,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:54.150154+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0165",
@@ -3618,9 +3618,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:06.643741+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0172",
@@ -3644,9 +3644,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 8,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:33:43.631212+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0176",
@@ -3670,9 +3670,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 8,
+   "events": 3,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:58.357032+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0177",
@@ -3774,9 +3774,9 @@
    "disputed": false,
    "units_affected": 22000,
    "incident_reports": 17,
-   "events": 3,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-23 14:17:15.996922+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0187",
@@ -3852,9 +3852,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 8,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 12:47:06.224504+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0196",
@@ -3878,9 +3878,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-12 08:41:35.847884+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0199",
@@ -3904,9 +3904,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 10,
+   "events": 4,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:03.937572+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0204",
@@ -3918,7 +3918,7 @@
    "incident_type": "collision",
    "severity": "property_damage",
    "location": "San Francisco, California, USA",
-   "escalation_stage": "follow_up",
+   "escalation_stage": "recall",
    "sources": 3,
    "date_precision": "day",
    "environment": "street",
@@ -3932,7 +3932,7 @@
    "incident_reports": null,
    "events": 3,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:57.566989+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0205",
@@ -4008,9 +4008,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 8,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:53.709237+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0209",
@@ -4034,9 +4034,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:47.130749+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0213",
@@ -4216,9 +4216,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:57.468768+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0228",
@@ -4268,9 +4268,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:13.269534+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0234",
@@ -4294,9 +4294,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:13.796731+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0235",
@@ -4346,9 +4346,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:09:56.005747+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0238",
@@ -4398,9 +4398,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:06.203153+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0240",
@@ -4450,9 +4450,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:10:07.006178+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0243",
@@ -6155,7 +6155,7 @@
    "severity": "no_harm",
    "location": "Beijing, China",
    "escalation_stage": "report",
-   "sources": 7,
+   "sources": 5,
    "date_precision": "day",
    "environment": "venue",
    "robot_model": null,
@@ -6166,9 +6166,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 1,
    "published_at": "2026-08-18 07:31:54.880241+00",
-   "updated_at": "2026-10-24 19:10:00.751205+00"
+   "updated_at": "2026-10-25 21:19:20.01109+00"
   },
   {
    "ref": "TMR-0768",
@@ -6192,9 +6192,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 32,
+   "events": 1,
    "published_at": "2026-09-15 07:37:23.372723+00",
-   "updated_at": "2026-10-24 19:09:49.496314+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0770",
@@ -6296,9 +6296,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 7,
+   "events": 1,
    "published_at": "2026-09-28 10:04:53.316283+00",
-   "updated_at": "2026-10-23 14:17:15.996922+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0778",
@@ -6400,9 +6400,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 4,
+   "events": 1,
    "published_at": "2026-10-22 07:17:39.142603+00",
-   "updated_at": "2026-10-23 14:17:15.996922+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0891",
@@ -6428,7 +6428,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-10-22 07:50:15.943879+00",
-   "updated_at": "2026-10-23 14:17:15.996922+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0892",
@@ -6582,9 +6582,9 @@
    "disputed": false,
    "units_affected": 3791,
    "incident_reports": 1,
-   "events": 8,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 19:04:34.417164+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0898",
@@ -6608,9 +6608,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-10-25 10:29:26.219788+00",
-   "updated_at": "2026-10-25 10:29:26.219788+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
    "ref": "TMR-0899",
@@ -6634,9 +6634,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-10-25 10:42:47.210619+00",
-   "updated_at": "2026-10-25 10:42:47.210619+00"
+   "updated_at": "2026-10-25 21:07:54.911463+00"
   }
  ]
 }
