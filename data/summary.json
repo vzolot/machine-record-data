@@ -1,11 +1,11 @@
 {
- "total": 255,
- "events": 302,
- "sources": 694,
- "distinct_source_domains": 330,
+ "total": 257,
+ "events": 310,
+ "sources": 698,
+ "distinct_source_domains": 331,
  "sgo_links": 15,
  "by_category": {
-  "autonomous_vehicle": 112,
+  "autonomous_vehicle": 114,
   "humanoid": 28,
   "delivery": 25,
   "consumer": 24,
@@ -19,30 +19,30 @@
  },
  "by_severity": {
   "minor_injury": 72,
-  "no_harm": 60,
-  "property_damage": 50,
+  "no_harm": 61,
+  "property_damage": 51,
   "serious_injury": 44,
   "fatality": 29
  },
  "by_escalation_stage": {
   "report": 167,
   "follow_up": 29,
-  "recall": 24,
-  "investigation": 16,
+  "recall": 25,
+  "investigation": 17,
   "lawsuit": 12,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 184,
+  "news": 186,
   "nhtsa": 54,
   "osha": 11,
   "cpsc": 3,
   "safetygate": 3
  },
  "by_company": {
-  "Waymo": 72,
+  "Waymo": 73,
   "unattributed": 66,
   "Tesla": 15,
   "Unitree Robotics": 9,
@@ -51,10 +51,10 @@
   "Cruise": 8,
   "Intuitive Surgical": 7,
   "Avride": 4,
+  "Baidu": 4,
   "Boston Dynamics": 4,
   "Coco Robotics": 3,
   "iRobot": 3,
-  "Baidu": 3,
   "Ecovacs": 3,
   "Amazon": 2,
   "Serve Robotics": 2,
@@ -109,12 +109,13 @@
   "2023": 18,
   "2024": 26,
   "2025": 68,
-  "2026": 85
+  "2026": 87
  },
  "by_source_language": {
-  "unknown": 688,
+  "unknown": 687,
+  "en": 5,
   "ja": 4,
   "de": 2
  },
- "exported_at": "2026-10-26T14:44:20+00:00"
+ "exported_at": "2026-10-27T13:51:01+00:00"
 }

@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-10-26T14:44:20+00:00",
- "total": 255,
+ "exported_at": "2026-10-27T13:51:01+00:00",
+ "total": 257,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -2489,7 +2489,7 @@
    "severity": "serious_injury",
    "location": "San Francisco, California, USA",
    "escalation_stage": "criminal_charge",
-   "sources": 38,
+   "sources": 39,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -2500,9 +2500,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 10,
+   "events": 11,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:19:20.01109+00"
+   "updated_at": "2026-10-27 06:53:11.1515+00"
   },
   {
    "ref": "TMR-0121",
@@ -4075,7 +4075,7 @@
    "severity": "minor_injury",
    "location": "San Francisco, California, USA",
    "escalation_stage": "recall",
-   "sources": 1,
+   "sources": 2,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -4086,9 +4086,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 1,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:56.191592+00"
+   "updated_at": "2026-10-27 06:33:17.039563+00"
   },
   {
    "ref": "TMR-0217",
@@ -6296,9 +6296,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 1,
+   "events": 2,
    "published_at": "2026-09-28 10:04:53.316283+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-10-27 08:15:27.485292+00"
   },
   {
    "ref": "TMR-0778",
@@ -6415,7 +6415,7 @@
    "severity": "fatality",
    "location": "Key Largo, Florida",
    "escalation_stage": "lawsuit",
-   "sources": 2,
+   "sources": 3,
    "date_precision": "day",
    "environment": "street",
    "robot_model": "Tesla Model S with Autopilot (2019)",
@@ -6426,9 +6426,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 3,
    "published_at": "2026-10-22 07:50:15.943879+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-10-27 06:20:44.294092+00"
   },
   {
    "ref": "TMR-0892",
@@ -6637,6 +6637,58 @@
    "events": 1,
    "published_at": "2026-10-25 10:42:47.210619+00",
    "updated_at": "2026-10-25 21:07:54.911463+00"
+  },
+  {
+   "ref": "TMR-0901",
+   "url": "https://themachinerecord.com/case/a-waymo-robotaxi-drove-into-floodwater-in-san-antonio-on-april-20-2026-prompting-0901",
+   "title": "A Waymo robotaxi drove into floodwater in San Antonio on April 20, 2026, prompting a voluntary recall of 3,791 vehicles for a software defect.",
+   "date_of_incident": "2026-04-20",
+   "company": "Waymo",
+   "category": "autonomous_vehicle",
+   "incident_type": "recall",
+   "severity": "property_damage",
+   "location": "San Antonio, Texas",
+   "escalation_stage": "recall",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": null,
+   "company_slug": "waymo",
+   "summary": "On April 20, 2026, an unoccupied Waymo robotaxi encountered a flooded section of roadway in San Antonio, proceeded into the floodwater at reduced speed, and was swept into Salado Creek. No passengers were on board and no injuries were reported, but the vehicle had to be recovered from the waterway. Waymo filed a voluntary recall with NHTSA on April 30, covering 3,791 vehicles equipped with fifth- and sixth-generation automated driving systems. The defect caused vehicles to slow but not stop when detecting a potentially untraversable waterlogged road on higher-speed roadways.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-10-27 08:29:39.377869+00",
+   "updated_at": "2026-10-27 08:29:39.377869+00"
+  },
+  {
+   "ref": "TMR-0902",
+   "url": "https://themachinerecord.com/case/baidu-and-freenow-unveiled-the-rt6-robotaxi-in-london-on-22-october-2026-and-ann-0902",
+   "title": "Baidu and Freenow unveiled the RT6 robotaxi in London on 22 October 2026 and announced a target for commercial driverless rides in 2027.",
+   "date_of_incident": "2026-10-22",
+   "company": "Baidu",
+   "category": "autonomous_vehicle",
+   "incident_type": "investigation",
+   "severity": "no_harm",
+   "location": "London, United Kingdom",
+   "escalation_stage": "investigation",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": "Apollo Go RT6",
+   "company_slug": "baidu",
+   "summary": "Baidu's Apollo Go and Lyft-owned Freenow unveiled the RT6 autonomous vehicle in London on 22 October 2026, with supervised road tests having begun in summer 2026. The companies aim to launch a fully driverless commercial robotaxi service in 2027, pending regulatory approval from Transport for London. London's narrow streets, speed bumps, and 20 mph zones are cited as a challenging but useful testing environment. Competition is growing, with Uber-Wayve already operating in London and Waymo targeting a fully driverless service by end of 2026.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-10-27 08:40:28.428245+00",
+   "updated_at": "2026-10-27 08:40:28.428245+00"
   }
  ]
 }
