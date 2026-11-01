@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-10-27T13:51:01+00:00",
+ "exported_at": "2026-11-01T14:39:09+00:00",
  "total": 257,
  "cases": [
   {
@@ -1526,8 +1526,8 @@
    "incident_type": "malfunction",
    "severity": "no_harm",
    "location": "San Francisco, California, USA",
-   "escalation_stage": "report",
-   "sources": 2,
+   "escalation_stage": "follow_up",
+   "sources": 3,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -1538,9 +1538,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 1,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-01 06:45:58.928084+00"
   },
   {
    "ref": "TMR-0079",

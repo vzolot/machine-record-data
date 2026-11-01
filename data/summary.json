@@ -1,9 +1,9 @@
 {
  "total": 257,
- "events": 310,
+ "events": 311,
  "sources": 698,
  "distinct_source_domains": 331,
- "sgo_links": 15,
+ "sgo_links": 16,
  "by_category": {
   "autonomous_vehicle": 114,
   "humanoid": 28,
@@ -25,8 +25,8 @@
   "fatality": 29
  },
  "by_escalation_stage": {
-  "report": 167,
-  "follow_up": 29,
+  "report": 166,
+  "follow_up": 30,
   "recall": 25,
   "investigation": 17,
   "lawsuit": 12,
@@ -117,5 +117,5 @@
   "ja": 4,
   "de": 2
  },
- "exported_at": "2026-10-27T13:51:01+00:00"
+ "exported_at": "2026-11-01T14:39:09+00:00"
 }
