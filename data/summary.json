@@ -1,11 +1,11 @@
 {
- "total": 257,
- "events": 311,
- "sources": 698,
+ "total": 256,
+ "events": 309,
+ "sources": 696,
  "distinct_source_domains": 331,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 114,
+  "autonomous_vehicle": 113,
   "humanoid": 28,
   "delivery": 25,
   "consumer": 24,
@@ -19,7 +19,7 @@
  },
  "by_severity": {
   "minor_injury": 72,
-  "no_harm": 61,
+  "no_harm": 60,
   "property_damage": 51,
   "serious_injury": 44,
   "fatality": 29
@@ -28,14 +28,14 @@
   "report": 166,
   "follow_up": 30,
   "recall": 25,
-  "investigation": 17,
+  "investigation": 16,
   "lawsuit": 12,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 186,
+  "news": 185,
   "nhtsa": 54,
   "osha": 11,
   "cpsc": 3,
@@ -51,10 +51,10 @@
   "Cruise": 8,
   "Intuitive Surgical": 7,
   "Avride": 4,
-  "Baidu": 4,
   "Boston Dynamics": 4,
   "Coco Robotics": 3,
   "iRobot": 3,
+  "Baidu": 3,
   "Ecovacs": 3,
   "Amazon": 2,
   "Serve Robotics": 2,
@@ -109,13 +109,13 @@
   "2023": 18,
   "2024": 26,
   "2025": 68,
-  "2026": 87
+  "2026": 86
  },
  "by_source_language": {
   "unknown": 687,
-  "en": 5,
   "ja": 4,
+  "en": 3,
   "de": 2
  },
- "exported_at": "2026-11-01T14:39:09+00:00"
+ "exported_at": "2026-11-03T15:41:39+00:00"
 }

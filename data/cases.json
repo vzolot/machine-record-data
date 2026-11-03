@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-01T14:39:09+00:00",
- "total": 257,
+ "exported_at": "2026-11-03T15:41:39+00:00",
+ "total": 256,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -6663,32 +6663,6 @@
    "events": 2,
    "published_at": "2026-10-27 08:29:39.377869+00",
    "updated_at": "2026-10-27 08:29:39.377869+00"
-  },
-  {
-   "ref": "TMR-0902",
-   "url": "https://themachinerecord.com/case/baidu-and-freenow-unveiled-the-rt6-robotaxi-in-london-on-22-october-2026-and-ann-0902",
-   "title": "Baidu and Freenow unveiled the RT6 robotaxi in London on 22 October 2026 and announced a target for commercial driverless rides in 2027.",
-   "date_of_incident": "2026-10-22",
-   "company": "Baidu",
-   "category": "autonomous_vehicle",
-   "incident_type": "investigation",
-   "severity": "no_harm",
-   "location": "London, United Kingdom",
-   "escalation_stage": "investigation",
-   "sources": 2,
-   "date_precision": "day",
-   "environment": "street",
-   "robot_model": "Apollo Go RT6",
-   "company_slug": "baidu",
-   "summary": "Baidu's Apollo Go and Lyft-owned Freenow unveiled the RT6 autonomous vehicle in London on 22 October 2026, with supervised road tests having begun in summer 2026. The companies aim to launch a fully driverless commercial robotaxi service in 2027, pending regulatory approval from Transport for London. London's narrow streets, speed bumps, and 20 mph zones are cited as a challenging but useful testing environment. Competition is growing, with Uber-Wayve already operating in London and Waymo targeting a fully driverless service by end of 2026.",
-   "origin": "news",
-   "stage_evidence": "press",
-   "disputed": false,
-   "units_affected": null,
-   "incident_reports": null,
-   "events": 2,
-   "published_at": "2026-10-27 08:40:28.428245+00",
-   "updated_at": "2026-10-27 08:40:28.428245+00"
   }
  ]
 }
