@@ -65,7 +65,7 @@ jobs:
       - name: Push to Kaggle
         if: (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && env.KAGGLE_API_TOKEN != ''
         run: |
-          pip install -q kaggle
+          pip install -q kaggle six  # шість: kaggle CLI імпортує six, у раннері його немає
           mkdir -p kaggle/data && cp data/cases.csv data/events.csv data/sources.csv data/sgo_links.csv data/cases.json kaggle/data/
           cd kaggle
           kaggle datasets version -p . -m "Data refresh $(date -u +%Y-%m-%d)" --dir-mode zip || kaggle datasets create -p . --dir-mode zip --public
