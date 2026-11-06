@@ -1,11 +1,11 @@
 {
- "total": 256,
- "events": 309,
- "sources": 696,
- "distinct_source_domains": 331,
+ "total": 257,
+ "events": 314,
+ "sources": 699,
+ "distinct_source_domains": 333,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 113,
+  "autonomous_vehicle": 114,
   "humanoid": 28,
   "delivery": 25,
   "consumer": 24,
@@ -20,12 +20,12 @@
  "by_severity": {
   "minor_injury": 72,
   "no_harm": 60,
-  "property_damage": 51,
+  "property_damage": 52,
   "serious_injury": 44,
   "fatality": 29
  },
  "by_escalation_stage": {
-  "report": 166,
+  "report": 167,
   "follow_up": 30,
   "recall": 25,
   "investigation": 16,
@@ -35,7 +35,7 @@
   "settlement": 1
  },
  "by_origin": {
-  "news": 185,
+  "news": 186,
   "nhtsa": 54,
   "osha": 11,
   "cpsc": 3,
@@ -90,7 +90,8 @@
   "Xpeng": 1,
   "United States Department of Veterans Affairs": 1,
   "E-GYM North America, Inc": 1,
-  "Saitama Institute of Technology": 1
+  "Saitama Institute of Technology": 1,
+  "Osaka Metro": 1
  },
  "by_year": {
   "1979": 1,
@@ -108,14 +109,14 @@
   "2022": 9,
   "2023": 18,
   "2024": 26,
-  "2025": 68,
+  "2025": 69,
   "2026": 86
  },
  "by_source_language": {
   "unknown": 687,
-  "ja": 4,
+  "ja": 7,
   "en": 3,
   "de": 2
  },
- "exported_at": "2026-11-03T15:41:39+00:00"
+ "exported_at": "2026-11-06T15:31:29+00:00"
 }

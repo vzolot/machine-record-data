@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-03T15:41:39+00:00",
- "total": 256,
+ "exported_at": "2026-11-06T15:31:29+00:00",
+ "total": 257,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -2489,7 +2489,7 @@
    "severity": "serious_injury",
    "location": "San Francisco, California, USA",
    "escalation_stage": "criminal_charge",
-   "sources": 39,
+   "sources": 41,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -2500,9 +2500,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 11,
+   "events": 13,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-27 06:53:11.1515+00"
+   "updated_at": "2026-11-06 06:29:44.654891+00"
   },
   {
    "ref": "TMR-0121",
@@ -6663,6 +6663,32 @@
    "events": 2,
    "published_at": "2026-10-27 08:29:39.377869+00",
    "updated_at": "2026-10-27 08:29:39.377869+00"
+  },
+  {
+   "ref": "TMR-0903",
+   "url": "https://themachinerecord.com/case/an-osaka-metro-autonomous-ev-bus-rolled-into-a-concrete-wall-at-the-maishima-sta-0903",
+   "title": "An Osaka Metro autonomous EV bus rolled into a concrete wall at the Maishima staging area on April 28, 2025, after the driver left the seat to consult a manual following an error display.",
+   "date_of_incident": "2025-04-28",
+   "company": "Osaka Metro",
+   "category": "autonomous_vehicle",
+   "incident_type": "collision",
+   "severity": "property_damage",
+   "location": "Maishima Park-and-Ride parking area, Osaka",
+   "escalation_stage": "report",
+   "sources": 3,
+   "date_precision": "day",
+   "environment": "other",
+   "robot_model": "EV autonomous bus (EVMotors Japan / EVMJ)",
+   "company_slug": "osaka-metro",
+   "summary": "On April 28, 2025, an autonomous EV bus operated by Osaka Metro at the Maishima Park-and-Ride staging area near the Osaka Expo venue rolled forward on a gentle downhill slope and struck a concrete wall, partially collapsing it and damaging the bus front. According to Osaka Metro, the driver had switched to manual operation after an error display appeared on the dashboard, dropped off two passengers, then left the seat to retrieve a phone to check the manual - at which point the bus began moving. Osaka Metro suspended all five autonomous buses pending investigation into both operator error and mechanical fault. The broader series of accidents and malfunctions involving EVMJ-supplied buses led the Ministry of Land, Infrastructure, Transport and Tourism to conduct a site inspection of EVMJ in October 2025, after which EVMJ filed a recall covering 85 buses in November 2025. Osaka Metro subsequently determined that safety could not be established and abandoned all 190 EV buses.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 3,
+   "published_at": "2026-11-06 08:06:45.423115+00",
+   "updated_at": "2026-11-06 08:06:45.423115+00"
   }
  ]
 }
