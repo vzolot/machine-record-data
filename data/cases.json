@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-06T15:31:29+00:00",
- "total": 257,
+ "exported_at": "2026-11-07T14:34:34+00:00",
+ "total": 258,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -6689,6 +6689,32 @@
    "events": 3,
    "published_at": "2026-11-06 08:06:45.423115+00",
    "updated_at": "2026-11-06 08:06:45.423115+00"
+  },
+  {
+   "ref": "TMR-0904",
+   "url": "https://themachinerecord.com/case/a-grab-autonomous-vehicle-nearly-struck-a-schoolgirl-while-making-a-left-turn-at-0904",
+   "title": "A Grab autonomous vehicle nearly struck a schoolgirl while making a left turn at a Punggol junction on 5 November 2026, prompting LTA to direct Grab to pause testing at similar junctions.",
+   "date_of_incident": "2026-11-05",
+   "company": null,
+   "category": "autonomous_vehicle",
+   "incident_type": "near_miss",
+   "severity": "no_harm",
+   "location": "Punggol Field Walk, Punggol, Singapore",
+   "escalation_stage": "report",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": null,
+   "company_slug": null,
+   "summary": "On the morning of 5 November 2026 at around 8:11 am, a Grab autonomous shuttle making a left turn at a Punggol Field Walk junction came close to hitting a young girl who stepped off the kerb to cross the road. A woman nearby stopped the girl in time, and the vehicle's safety operator took over to brake and steer away. The Land Transport Authority, notified on 5 November, directed Grab to suspend autonomous vehicle testing at such junctions pending investigation, and said it would review whether the vehicle's response in similar scenarios needed adjustment. Grab confirmed it was conducting a detailed review together with LTA and its partner WeRide.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-11-07 06:23:40.739767+00",
+   "updated_at": "2026-11-07 06:23:40.739767+00"
   }
  ]
 }
