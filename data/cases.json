@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-08T14:41:01+00:00",
- "total": 256,
+ "exported_at": "2026-11-10T15:58:52+00:00",
+ "total": 257,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -6663,6 +6663,32 @@
    "events": 2,
    "published_at": "2026-11-07 06:23:40.739767+00",
    "updated_at": "2026-11-07 06:23:40.739767+00"
+  },
+  {
+   "ref": "TMR-0905",
+   "url": "https://themachinerecord.com/case/an-autonomous-bus-struck-a-stone-wall-on-its-first-day-of-public-passenger-servi-0905",
+   "title": "An autonomous bus struck a stone wall on its first day of public passenger service in Kinosaki Onsen, Toyooka, Hyogo Prefecture.",
+   "date_of_incident": "2026-11-09",
+   "company": null,
+   "category": "autonomous_vehicle",
+   "incident_type": "collision",
+   "severity": "property_damage",
+   "location": "Kinosaki Onsen, Toyooka, Hyogo, Japan",
+   "escalation_stage": "report",
+   "sources": 3,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": "ROii",
+   "company_slug": null,
+   "summary": "On 9 November 2026 at around 11:30 am, an autonomous bus developed by Korean company Autonomous A2Z, model ROii, was operating its first day of public service in the Kinosaki Onsen resort area of Toyooka, Hyogo Prefecture. The bus detected an oncoming large truck and steered left to avoid it, scraping the body of the vehicle against a stone wall alongside the road. All eight people on board, six passengers and two crew members, were uninjured. The city of Toyooka suspended service pending a safety investigation, with the aim of resuming operations as soon as possible.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 3,
+   "published_at": "2026-11-10 06:22:54.504161+00",
+   "updated_at": "2026-11-10 06:22:54.504161+00"
   }
  ]
 }
