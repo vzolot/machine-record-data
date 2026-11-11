@@ -1,11 +1,11 @@
 {
- "total": 257,
- "events": 315,
- "sources": 701,
- "distinct_source_domains": 337,
+ "total": 258,
+ "events": 319,
+ "sources": 704,
+ "distinct_source_domains": 339,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 114,
+  "autonomous_vehicle": 115,
   "humanoid": 28,
   "delivery": 25,
   "consumer": 24,
@@ -19,23 +19,23 @@
  },
  "by_severity": {
   "minor_injury": 72,
-  "no_harm": 61,
+  "no_harm": 62,
   "property_damage": 53,
   "serious_injury": 43,
   "fatality": 28
  },
  "by_escalation_stage": {
-  "report": 169,
-  "follow_up": 30,
+  "report": 168,
+  "follow_up": 31,
   "recall": 25,
-  "investigation": 16,
+  "investigation": 17,
   "lawsuit": 10,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 186,
+  "news": 187,
   "nhtsa": 54,
   "osha": 11,
   "cpsc": 3,
@@ -44,7 +44,7 @@
  "by_company": {
   "Waymo": 73,
   "unattributed": 68,
-  "Tesla": 13,
+  "Tesla": 14,
   "Unitree Robotics": 9,
   "Zoox": 9,
   "Starship Technologies": 8,
@@ -110,14 +110,14 @@
   "2023": 18,
   "2024": 26,
   "2025": 68,
-  "2026": 88
+  "2026": 89
  },
  "by_source_language": {
   "unknown": 684,
   "ja": 10,
-  "en": 3,
+  "en": 6,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-10T15:58:52+00:00"
+ "exported_at": "2026-11-11T15:45:48+00:00"
 }

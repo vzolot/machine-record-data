@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-10T15:58:52+00:00",
- "total": 257,
+ "exported_at": "2026-11-11T15:45:48+00:00",
+ "total": 258,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -2176,8 +2176,8 @@
    "incident_type": "malfunction",
    "severity": "no_harm",
    "location": null,
-   "escalation_stage": "report",
-   "sources": 1,
+   "escalation_stage": "follow_up",
+   "sources": 2,
    "date_precision": "day",
    "environment": "factory",
    "robot_model": "Optimus",
@@ -2188,9 +2188,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 1,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:58.154852+00"
+   "updated_at": "2026-11-11 06:44:30.582013+00"
   },
   {
    "ref": "TMR-0106",
@@ -6689,6 +6689,32 @@
    "events": 3,
    "published_at": "2026-11-10 06:22:54.504161+00",
    "updated_at": "2026-11-10 06:22:54.504161+00"
+  },
+  {
+   "ref": "TMR-0906",
+   "url": "https://themachinerecord.com/case/tesla-began-testing-approximately-two-dozen-cybercab-robotaxis-on-public-roads-i-0906",
+   "title": "Tesla began testing approximately two dozen Cybercab robotaxis on public roads in Metro Detroit in early November 2026.",
+   "date_of_incident": "2026-11-03",
+   "company": "Tesla",
+   "category": "autonomous_vehicle",
+   "incident_type": "investigation",
+   "severity": "no_harm",
+   "location": "Metro Detroit, Michigan",
+   "escalation_stage": "investigation",
+   "sources": 3,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": "Cybercab",
+   "company_slug": "tesla",
+   "summary": "A fleet of roughly two dozen Tesla Cybercabs has been observed operating on public roads in Metro Detroit, running out of Tesla's collision repair facility in Southfield. The vehicles carry temporary steering wheels and human test drivers, as the production Cybercab is designed to operate without a steering wheel or pedals. Waymo has also been conducting driverless testing in Detroit, with its vehicles operating downtown without front-seat occupants as of October 2026. Neither Tesla nor Waymo has announced a timeline for public rideshare service in Detroit.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 3,
+   "published_at": "2026-11-11 08:23:47.405667+00",
+   "updated_at": "2026-11-11 08:23:47.405667+00"
   }
  ]
 }
