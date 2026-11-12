@@ -25,6 +25,11 @@ Data
 - TMR-0051 split: it held two Waymo recalls, 1,212 vehicles in May 2025 (gates and chains) and 3,791 in May 2026 (flooded roads); the second is now TMR-0897.
 - `environment = factory` on the eleven OSHA cases, after reading each narrative.
 
+Data, 2026-11-12
+
+- `tier` is recomputed under the current lists every day. It had been stored when a source was first recorded and not updated when the lists changed on 2026-08-10, so 129 of 722 sources carried an older tier (98 showed 2 where the lists now say 3, mostly tabloids and rewriters; 27 showed 2 where they now say 1; 4 showed 3 where they now say 2). The change reaches this mirror with the first refresh after 2026-11-13. `tier_at_publication` is unchanged: it records the decision as it was made.
+- A withdrawn case keeps status `unpublished` and its page. Ten cases had been left in an internal `pending` state (eight since August, one since September, one since the morning of 2026-11-12), out of the data and with no page; five came back on 2026-11-12 because what withdrew them was later found wrong (TMR-0041, TMR-0088, TMR-0219, TMR-0232, TMR-0171), five stay withdrawn with the reason on their pages (TMR-0039, TMR-0086, TMR-0109, TMR-0132, TMR-0765).
+
 Method, 2026-10-25
 
 - Press in a language other than English is judged with two disclosed allowances (tmr-gates 0.2.0, `evaluate(..., lang=)`): the adversarial flags `named_private_individual` and `stale_as_new` do not block on their own, because the name stripper removes the name before publication and the event date is still required, and the risk ceiling is 0.5 instead of 0.35. The two-source rule, the tiers, the three-source rule for deaths and serious injuries and the date rules are unchanged. The allowances are recorded on each case's audit entry (`flags_waived`, `foreign_press`). Reason: a first pass over 300 non-English finds published nothing, with these two flags and the ceiling accounting for most refusals after verification.
