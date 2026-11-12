@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-12T13:31:53+00:00",
+ "exported_at": "2026-11-12T16:28:52+00:00",
  "total": 263,
  "cases": [
   {
@@ -140,7 +140,7 @@
   },
   {
    "ref": "TMR-0007",
-   "url": "https://themachinerecord.com/case/a-serve-robotics-delivery-robot-collided-with-a-person-a-man-with-cerebral-palsy-0007",
+   "url": "https://themachinerecord.com/case/a-serve-robotics-delivery-robot-collided-with-a-man-with-cerebral-palsy-riding-a-0007",
    "title": "A Serve Robotics delivery robot collided with a man with cerebral palsy riding a mobility scooter on a sidewalk near the West Hollywood Sheriff's Station, causing his scooter to jolt backward.",
    "date_of_incident": "2025-09-13",
    "company": "Serve Robotics",
@@ -162,7 +162,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0008",
@@ -400,7 +400,7 @@
   },
   {
    "ref": "TMR-0019",
-   "url": "https://themachinerecord.com/case/a-knightscope-k5-security-robot-ran-over-a-16-month-old-toddler-a-person-at-a-sh-0019",
+   "url": "https://themachinerecord.com/case/a-knightscope-k5-security-robot-ran-over-a-16-month-old-toddler-at-a-shopping-ce-0019",
    "title": "A Knightscope K5 security robot ran over a 16-month-old toddler at a shopping centre in Silicon Valley, leaving him with swelling to his right foot.",
    "date_of_incident": "2016-07-14",
    "company": "Knightscope",
@@ -422,11 +422,11 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:30:58.296581+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0020",
-   "url": "https://themachinerecord.com/case/a-person-a-48-year-old-engineer-at-a-person-in-hipperholme-was-fatally-crushed-b-0020",
+   "url": "https://themachinerecord.com/case/a-48-year-old-engineer-at-deco-pak-in-hipperholme-was-fatally-crushed-by-a-robot-0020",
    "title": "A 48-year-old engineer at Deco-Pak in Hipperholme was fatally crushed by a robotic arm while cleaning a sensor inside the machine's cell, dying from crush injuries to his chest.",
    "date_of_incident": "2017-04-14",
    "company": null,
@@ -448,11 +448,11 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:30:58.541616+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0022",
-   "url": "https://themachinerecord.com/case/a-person-20-was-killed-when-a-robot-at-the-ajin-usa-plant-in-cusseta-alabama-res-0022",
+   "url": "https://themachinerecord.com/case/a-20-year-old-worker-was-killed-when-a-robot-at-the-ajin-usa-plant-in-cusseta-al-0022",
    "title": "A 20-year-old worker was killed when a robot at the Ajin USA plant in Cusseta, Alabama restarted abruptly while she was inside a robotic station clearing a sensor fault on a stopped assembly line.",
    "date_of_incident": "2016-06-18",
    "company": "Ajin USA (Joon LLC)",
@@ -474,11 +474,11 @@
    "incident_reports": null,
    "events": 6,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:19:20.01109+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0023",
-   "url": "https://themachinerecord.com/case/a-person-a-25-year-old-ford-assembly-line-worker-was-killed-instantly-when-a-rob-0023",
+   "url": "https://themachinerecord.com/case/a-25-year-old-ford-assembly-line-worker-was-killed-instantly-when-a-robot-arm-st-0023",
    "title": "A 25-year-old Ford assembly line worker was killed instantly when a robot arm struck him in the head while he was gathering parts in a storage facility at a Ford casting plant in Flat Rock, Michigan.",
    "date_of_incident": "1979-01-25",
    "company": null,
@@ -500,7 +500,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:30:59.110639+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0024",
@@ -790,7 +790,7 @@
   },
   {
    "ref": "TMR-0043",
-   "url": "https://themachinerecord.com/case/a-da-vinci-surgical-robot-allegedly-burned-and-tore-a-person-s-small-intestine-d-0043",
+   "url": "https://themachinerecord.com/case/a-da-vinci-surgical-robot-allegedly-burned-and-tore-a-patient-s-small-intestine--0043",
    "title": "A da Vinci surgical robot allegedly burned and tore a patient's small intestine during colon cancer surgery in Florida in September 2021, leading to additional procedures and her death in February 2022, prompting a wrongful death lawsuit against Intuitive Surgical.",
    "date_of_incident": "2021-09-01",
    "company": "Intuitive Surgical",
@@ -812,11 +812,11 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0044",
-   "url": "https://themachinerecord.com/case/a-person-71-died-on-june-26-2022-after-undergoing-robotic-surgery-to-remove-pros-0044",
+   "url": "https://themachinerecord.com/case/a-71-year-old-man-died-on-june-26-2022-after-undergoing-robotic-surgery-to-remov-0044",
    "title": "A 71-year-old man died on June 26, 2022, after undergoing robotic surgery to remove prostate cancer at Lawrence + Memorial Hospital in New London on June 3, 2022, with a lawsuit alleging the hospital lacked the resources to safely perform the procedure and failed to transfer him sooner to a major medical center.",
    "date_of_incident": "2022-06-03",
    "company": null,
@@ -838,7 +838,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:00.091707+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0046",
@@ -2922,7 +2922,7 @@
   },
   {
    "ref": "TMR-0139",
-   "url": "https://themachinerecord.com/case/a-tesla-software-engineer-was-attacked-by-a-robot-at-tesla-s-a-person-factory-in-0139",
+   "url": "https://themachinerecord.com/case/a-tesla-software-engineer-was-attacked-by-a-robot-at-tesla-s-giga-texas-factory--0139",
    "title": "A Tesla software engineer was attacked by a robot at Tesla's Giga Texas factory in Austin when a third robot that had not been disabled pinned him and sank its metal claws into his back and arm, causing lacerations.",
    "date_of_incident": "2021-01-01",
    "company": "KUKA",
@@ -2944,7 +2944,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0142",
@@ -3182,7 +3182,7 @@
   },
   {
    "ref": "TMR-0151",
-   "url": "https://themachinerecord.com/case/a-54-year-old-man-with-a-a-person-complete-spinal-cord-injury-sustained-bilatera-0151",
+   "url": "https://themachinerecord.com/case/a-54-year-old-man-with-a-t10-complete-spinal-cord-injury-sustained-bilateral-pro-0151",
    "title": "A 54-year-old man with a T10 complete spinal cord injury sustained bilateral proximal tibial fractures during a powered robotic exoskeleton physiotherapy session, requiring manipulation under anaesthetic and 12 weeks of non-weight-bearing treatment.",
    "date_of_incident": "2024-04-16",
    "company": null,
@@ -3204,11 +3204,11 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:02.789319+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0152",
-   "url": "https://themachinerecord.com/case/a-paralyzed-former-jockey-was-left-unable-to-use-his-rea-person-exoskeleton-afte-0152",
+   "url": "https://themachinerecord.com/case/a-paralyzed-former-jockey-was-left-unable-to-use-his-rewalk-personal-exoskeleton-0152",
    "title": "A paralyzed former jockey was left unable to use his ReWalk Personal exoskeleton after manufacturer Lifeward refused to service the device due to its age, before eventually agreeing to repair it following a public campaign.",
    "date_of_incident": "2024-09-27",
    "company": "Lifeward",
@@ -3230,7 +3230,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:03.035826+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0153",
@@ -3546,7 +3546,7 @@
   },
   {
    "ref": "TMR-0167",
-   "url": "https://themachinerecord.com/case/a-person-an-employee-of-n-c-enterprises-ltd-in-kilmeague-was-struck-and-killed-b-0167",
+   "url": "https://themachinerecord.com/case/an-employee-of-n-c-enterprises-ltd-in-kilmeague-was-struck-and-killed-by-a-rotat-0167",
    "title": "An employee of N&C Enterprises Ltd. in Kilmeague was struck and killed by a rotating robotic arm after entering a restricted area through a retrofitted gate that bypassed the plant's safety protections.",
    "date_of_incident": "2025-05-26",
    "company": null,
@@ -3568,7 +3568,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:03.281065+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0168",
@@ -3728,7 +3728,7 @@
   },
   {
    "ref": "TMR-0177",
-   "url": "https://themachinerecord.com/case/saudi-humanoid-robot-muhammad-allegedly-touched-female-reporter-a-person-inappro-0177",
+   "url": "https://themachinerecord.com/case/saudi-humanoid-robot-muhammad-allegedly-touched-a-female-reporter-inappropriatel-0177",
    "title": "Saudi humanoid robot 'Muhammad' allegedly touched a female reporter inappropriately on her back during its public launch at the DeepFast event in Riyadh.",
    "date_of_incident": "2024-03-04",
    "company": null,
@@ -3750,7 +3750,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 08:31:03.524618+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0179",
@@ -4144,7 +4144,7 @@
   },
   {
    "ref": "TMR-0217",
-   "url": "https://themachinerecord.com/case/a-unitree-h1-humanoid-robot-struck-a-person-during-the-1500-meter-race-at-the-hu-0217",
+   "url": "https://themachinerecord.com/case/a-unitree-h1-humanoid-robot-struck-a-bystander-during-the-1500-meter-race-at-the-0217",
    "title": "A Unitree H1 humanoid robot struck a bystander during the 1500-meter race at the Humanoid Robot Sports Games when two human operators failed to issue an evasion command in time during a remote-control handover.",
    "date_of_incident": "2025-08-15",
    "company": "Unitree Robotics",
@@ -4166,7 +4166,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-24 09:10:06.102119+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0218",
@@ -4352,7 +4352,7 @@
   },
   {
    "ref": "TMR-0232",
-   "url": "https://themachinerecord.com/case/a-78-year-old-a-person-woman-died-after-a-surgical-robot-allegedly-burned-a-hole-0232",
+   "url": "https://themachinerecord.com/case/a-78-year-old-florida-woman-died-after-a-surgical-robot-allegedly-burned-a-hole--0232",
    "title": "A 78-year-old Florida woman died after a surgical robot allegedly burned a hole in her intestine during a colon cancer operation, prompting a lawsuit.",
    "date_of_incident": "2024-02-08",
    "company": null,
@@ -4374,7 +4374,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-12 12:29:39.968902+00"
+   "updated_at": "2026-11-12 16:18:03.451866+00"
   },
   {
    "ref": "TMR-0234",
