@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-11T15:45:48+00:00",
- "total": 258,
+ "exported_at": "2026-11-12T13:31:53+00:00",
+ "total": 263,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -374,8 +374,8 @@
   },
   {
    "ref": "TMR-0018",
-   "url": "https://themachinerecord.com/case/a-22-year-old-trainee-engineer-ramanjaneyulu-was-fatally-injured-after-being-cau-0018",
-   "title": "A 22-year-old trainee engineer, Ramanjaneyulu, was fatally injured after being caught in a robotic arm at NPH Industries, a Kia ancillary unit in Penukonda, Andhra Pradesh.",
+   "url": "https://themachinerecord.com/case/a-22-year-old-trainee-engineer-was-fatally-injured-after-being-caught-in-a-robot-0018",
+   "title": "A 22-year-old trainee engineer was fatally injured after being caught in a robotic arm at NPH Industries, a Kia ancillary unit in Penukonda, Andhra Pradesh.",
    "date_of_incident": "2026-05-08",
    "company": null,
    "category": "robot_arm",
@@ -388,7 +388,7 @@
    "environment": "factory",
    "robot_model": null,
    "company_slug": null,
-   "summary": "A 22-year-old trainee engineer, Ramanjaneyulu, was fatally injured after being caught in a robotic arm at NPH Industries, a Kia ancillary unit in Penukonda, Andhra Pradesh.",
+   "summary": "A 22-year-old trainee engineer was fatally injured after being caught in a robotic arm at NPH Industries, a Kia ancillary unit in Penukonda, Andhra Pradesh.",
    "origin": "news",
    "stage_evidence": "press",
    "disputed": false,
@@ -396,7 +396,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:46.801248+00"
+   "updated_at": "2026-11-12 13:29:38.912735+00"
   },
   {
    "ref": "TMR-0019",
@@ -737,6 +737,32 @@
    "updated_at": "2026-09-07 07:25:49.582717+00"
   },
   {
+   "ref": "TMR-0041",
+   "url": "https://themachinerecord.com/case/a-humanoid-robot-toppled-forward-onto-rapper-cardi-b-during-a-lap-dance-at-the-f-0041",
+   "title": "A humanoid robot toppled forward onto rapper Cardi B during a lap dance at the Fanatics Super Bowl Party at Pier 48 in San Francisco; Cardi B was reported unharmed by TMZ.",
+   "date_of_incident": "2026-02-08",
+   "company": null,
+   "category": "humanoid",
+   "incident_type": "collision",
+   "severity": "minor_injury",
+   "location": "San Francisco, California, USA",
+   "escalation_stage": "lawsuit",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "other",
+   "robot_model": null,
+   "company_slug": null,
+   "summary": "A humanoid robot toppled forward onto rapper Cardi B during a lap dance at the Fanatics Super Bowl Party at Pier 48 in San Francisco; Cardi B was reported unharmed by TMZ.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-08-02 21:58:43.286187+00",
+   "updated_at": "2026-11-12 09:09:31.946375+00"
+  },
+  {
    "ref": "TMR-0042",
    "url": "https://themachinerecord.com/case/at-tesla-s-fremont-california-plant-in-november-2019-a-stack-of-three-steel-skid-0042",
    "title": "At Tesla's Fremont, California plant in November 2019, a stack of three steel skids on an automated conveyor system knocked a worker down and dragged him more than 15 feet, seriously injuring both his legs.",
@@ -903,7 +929,7 @@
    "severity": "no_harm",
    "location": "Atlanta, Georgia, USA",
    "escalation_stage": "recall",
-   "sources": 10,
+   "sources": 11,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -914,9 +940,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 6,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 06:19:20.303852+00"
   },
   {
    "ref": "TMR-0050",
@@ -1751,6 +1777,32 @@
    "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
+   "ref": "TMR-0088",
+   "url": "https://themachinerecord.com/case/a-waymo-robotaxi-parked-in-a-bike-lane-on-seventh-street-in-san-francisco-opened-0088",
+   "title": "A Waymo robotaxi parked in a bike lane on Seventh Street in San Francisco opened its rear passenger door into a cyclist, ejecting her into a second Waymo and causing serious injuries including a brain injury and spine damage.",
+   "date_of_incident": "2025-02-16",
+   "company": "Waymo",
+   "category": "other",
+   "incident_type": "lawsuit",
+   "severity": "serious_injury",
+   "location": "San Francisco, California, USA",
+   "escalation_stage": "lawsuit",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": null,
+   "company_slug": "waymo",
+   "summary": "A Waymo robotaxi parked in a bike lane on Seventh Street in San Francisco opened its rear passenger door into a cyclist, ejecting her into a second Waymo and causing serious injuries including a brain injury and spine damage.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-08-02 21:58:43.286187+00",
+   "updated_at": "2026-11-12 12:49:00.937583+00"
+  },
+  {
    "ref": "TMR-0089",
    "url": "https://themachinerecord.com/case/two-cruise-autonomous-vehicles-stopped-in-traffic-lanes-on-august-14-2023-in-san-0089",
    "title": "Two Cruise autonomous vehicles stopped in traffic lanes on August 14, 2023 in San Francisco, allegedly delaying an ambulance transporting a pedestrian with life-threatening injuries who later died at the hospital, though Cruise disputes that its vehicles impeded the ambulance.",
@@ -2090,8 +2142,8 @@
   },
   {
    "ref": "TMR-0102",
-   "url": "https://themachinerecord.com/case/michelle-zarick-alleged-that-inadequately-insulated-electrified-scissors-on-the--0102",
-   "title": "Michelle Zarick alleged that inadequately insulated electrified scissors on the da Vinci robotic surgical system caused internal injuries during a 2009 hysterectomy, resulting in intestinal prolapse and emergency surgery requiring a hip-to-hip incision.",
+   "url": "https://themachinerecord.com/case/a-patient-alleged-that-inadequately-insulated-electrified-scissors-on-the-da-vin-0102",
+   "title": "A patient alleged that inadequately insulated electrified scissors on the da Vinci robotic surgical system caused internal injuries during a 2009 hysterectomy, resulting in intestinal prolapse and emergency surgery requiring a hip-to-hip incision.",
    "date_of_incident": "2009-01-01",
    "company": "Intuitive Surgical",
    "category": "surgical",
@@ -2104,7 +2156,7 @@
    "environment": "hospital",
    "robot_model": null,
    "company_slug": "intuitive-surgical",
-   "summary": "Michelle Zarick alleged that inadequately insulated electrified scissors on the da Vinci robotic surgical system caused internal injuries during a 2009 hysterectomy, resulting in intestinal prolapse and emergency surgery requiring a hip-to-hip incision.",
+   "summary": "A patient alleged that inadequately insulated electrified scissors on the da Vinci robotic surgical system caused internal injuries during a 2009 hysterectomy, resulting in intestinal prolapse and emergency surgery requiring a hip-to-hip incision.",
    "origin": "news",
    "stage_evidence": "press",
    "disputed": false,
@@ -2112,7 +2164,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:57.767671+00"
+   "updated_at": "2026-11-12 13:29:38.912735+00"
   },
   {
    "ref": "TMR-0103",
@@ -2610,8 +2662,8 @@
   },
   {
    "ref": "TMR-0126",
-   "url": "https://themachinerecord.com/case/former-figure-ai-principal-robotic-safety-engineer-robert-gruendel-sued-the-comp-0126",
-   "title": "Former Figure AI principal robotic safety engineer Robert Gruendel sued the company in the Northern District of California, alleging he was dismissed in September 2025 after warning executives that the company's humanoid robots were powerful enough to fracture a human skull, and citing a malfunction in which a robot carved a quarter-inch gash into a steel refrigerator door.",
+   "url": "https://themachinerecord.com/case/a-former-figure-ai-principal-robotic-safety-engineer-sued-the-company-in-the-nor-0126",
+   "title": "A former Figure AI principal robotic safety engineer sued the company in the Northern District of California, alleging he was dismissed in September 2025 after warning executives that the company's humanoid robots were powerful enough to fracture a human skull, and citing a malfunction in which a robot carved a quarter-inch gash into a steel refrigerator door.",
    "date_of_incident": "2025-09-01",
    "company": "Figure AI",
    "category": "humanoid",
@@ -2624,7 +2676,7 @@
    "environment": "factory",
    "robot_model": null,
    "company_slug": "figure-ai",
-   "summary": "Former Figure AI principal robotic safety engineer Robert Gruendel sued the company in the Northern District of California, alleging he was dismissed in September 2025 after warning executives that the company's humanoid robots were powerful enough to fracture a human skull, and citing a malfunction in which a robot carved a quarter-inch gash into a steel refrigerator door.",
+   "summary": "A former Figure AI principal robotic safety engineer sued the company in the Northern District of California, alleging he was dismissed in September 2025 after warning executives that the company's humanoid robots were powerful enough to fracture a human skull, and citing a malfunction in which a robot carved a quarter-inch gash into a steel refrigerator door.",
    "origin": "news",
    "stage_evidence": "document",
    "disputed": false,
@@ -2632,7 +2684,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 13:29:38.912735+00"
   },
   {
    "ref": "TMR-0127",
@@ -2844,8 +2896,8 @@
   },
   {
    "ref": "TMR-0138",
-   "url": "https://themachinerecord.com/case/j-t-beckham-a-man-in-his-20s-was-killed-when-he-was-pinned-by-a-welding-robot-at-0138",
-   "title": "J.T. Beckham, a man in his 20s, was killed when he was pinned by a welding robot at the Unipres USA manufacturing plant in Forest, Mississippi.",
+   "url": "https://themachinerecord.com/case/a-man-in-his-20s-was-killed-when-he-was-pinned-by-a-welding-robot-at-the-unipres-0138",
+   "title": "A man in his 20s was killed when he was pinned by a welding robot at the Unipres USA manufacturing plant in Forest, Mississippi.",
    "date_of_incident": "2022-09-01",
    "company": null,
    "category": "robot_arm",
@@ -2858,7 +2910,7 @@
    "environment": "factory",
    "robot_model": null,
    "company_slug": null,
-   "summary": "J.T. Beckham, a man in his 20s, was killed when he was pinned by a welding robot at the Unipres USA manufacturing plant in Forest, Mississippi.",
+   "summary": "A man in his 20s was killed when he was pinned by a welding robot at the Unipres USA manufacturing plant in Forest, Mississippi.",
    "origin": "news",
    "stage_evidence": "press",
    "disputed": false,
@@ -2866,7 +2918,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 12:37:19.271743+00"
   },
   {
    "ref": "TMR-0139",
@@ -3600,15 +3652,15 @@
    "ref": "TMR-0171",
    "url": "https://themachinerecord.com/case/a-doordash-delivery-robot-wandered-into-an-active-swat-operation-and-refused-to--0171",
    "title": "A DoorDash delivery robot wandered into an active SWAT operation and refused to leave",
-   "date_of_incident": "2026-07-25",
+   "date_of_incident": "2026-06-01",
    "company": "DoorDash",
    "category": "delivery",
    "incident_type": "other",
    "severity": "no_harm",
-   "location": null,
+   "location": "Chandler, Arizona, USA",
    "escalation_stage": "follow_up",
    "sources": 2,
-   "date_precision": "day",
+   "date_precision": "month",
    "environment": "street",
    "robot_model": null,
    "company_slug": "doordash",
@@ -3620,7 +3672,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-12 12:29:39.968902+00"
   },
   {
    "ref": "TMR-0172",
@@ -4143,6 +4195,32 @@
    "updated_at": "2026-09-07 07:26:11.698174+00"
   },
   {
+   "ref": "TMR-0219",
+   "url": "https://themachinerecord.com/case/a-humanoid-dancing-robot-at-a-haidilao-hot-pot-restaurant-in-cupertino-californi-0219",
+   "title": "A humanoid dancing robot at a Haidilao hot pot restaurant in Cupertino, California moved too close to a table and knocked over dishes, smashing plates and sending chopsticks and dishware flying, requiring at least three staff members to restrain it.",
+   "date_of_incident": "2026-03-20",
+   "company": "AgiBot",
+   "category": "humanoid",
+   "incident_type": "malfunction",
+   "severity": "property_damage",
+   "location": "Cupertino, California, USA",
+   "escalation_stage": "follow_up",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "retail",
+   "robot_model": "X2",
+   "company_slug": "agibot",
+   "summary": "A humanoid dancing robot at a Haidilao hot pot restaurant in Cupertino, California moved too close to a table and knocked over dishes, smashing plates and sending chopsticks and dishware flying, requiring at least three staff members to restrain it.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-08-02 21:58:43.286187+00",
+   "updated_at": "2026-11-12 09:09:32.622277+00"
+  },
+  {
    "ref": "TMR-0221",
    "url": "https://themachinerecord.com/case/a-unitree-humanoid-robot-malfunctioned-during-a-festive-performance-in-a-beijing-0221",
    "title": "A Unitree humanoid robot malfunctioned during a festive performance in a Beijing park, aggressively flailing its limbs near human dancers until organizers powered it down.",
@@ -4271,6 +4349,32 @@
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
    "updated_at": "2026-10-25 21:07:54.911463+00"
+  },
+  {
+   "ref": "TMR-0232",
+   "url": "https://themachinerecord.com/case/a-78-year-old-a-person-woman-died-after-a-surgical-robot-allegedly-burned-a-hole-0232",
+   "title": "A 78-year-old Florida woman died after a surgical robot allegedly burned a hole in her intestine during a colon cancer operation, prompting a lawsuit.",
+   "date_of_incident": "2024-02-08",
+   "company": null,
+   "category": "surgical",
+   "incident_type": "lawsuit",
+   "severity": "fatality",
+   "location": "Florida, USA",
+   "escalation_stage": "lawsuit",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "hospital",
+   "robot_model": null,
+   "company_slug": null,
+   "summary": "A 78-year-old Florida woman died after a surgical robot allegedly burned a hole in her intestine during a colon cancer operation, prompting a lawsuit.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 2,
+   "published_at": "2026-08-02 21:58:43.286187+00",
+   "updated_at": "2026-11-12 12:29:39.968902+00"
   },
   {
    "ref": "TMR-0234",
@@ -6715,6 +6819,32 @@
    "events": 3,
    "published_at": "2026-11-11 08:23:47.405667+00",
    "updated_at": "2026-11-11 08:23:47.405667+00"
+  },
+  {
+   "ref": "TMR-0907",
+   "url": "https://themachinerecord.com/case/nhtsa-opened-a-recall-query-into-whether-waymo-s-software-fix-stopped-its-robota-0907",
+   "title": "NHTSA opened a recall query into whether Waymo's software fix stopped its robotaxis from passing stopped school buses",
+   "date_of_incident": "2026-11-06",
+   "company": "Waymo",
+   "category": "autonomous_vehicle",
+   "incident_type": "investigation",
+   "severity": "no_harm",
+   "location": "United States",
+   "escalation_stage": "investigation",
+   "sources": 3,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": null,
+   "company_slug": "waymo",
+   "summary": "According to NHTSA, its Office of Defects Investigation opened recall query RQ26006 on 6 November 2026 covering 2,895 Waymo vehicles. The query examines whether Waymo's December 2025 software recall worked; NHTSA's Office of Defects Investigation stated that a majority of reported incidents occurred after the remedy date of 17 November 2025, which is the date Waymo said its corrective software was fully deployed. According to NHTSA's earlier investigation, Waymo robotaxis were documented driving past stopped school buses with flashing red lights and stop arms deployed in Atlanta and Austin. According to Waymo's recall filing, no collisions were reported.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 3,
+   "published_at": "2026-11-12 06:19:48.242197+00",
+   "updated_at": "2026-11-12 06:19:48.242197+00"
   }
  ]
 }

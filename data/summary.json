@@ -1,49 +1,49 @@
 {
- "total": 258,
- "events": 319,
- "sources": 704,
- "distinct_source_domains": 339,
+ "total": 263,
+ "events": 331,
+ "sources": 715,
+ "distinct_source_domains": 343,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 115,
-  "humanoid": 28,
+  "autonomous_vehicle": 116,
+  "humanoid": 30,
   "delivery": 25,
   "consumer": 24,
+  "surgical": 18,
   "robot_arm": 17,
-  "surgical": 17,
   "industrial": 13,
   "service": 8,
-  "other": 7,
+  "other": 8,
   "warehouse_amr": 3,
   "agricultural": 1
  },
  "by_severity": {
-  "minor_injury": 72,
-  "no_harm": 62,
-  "property_damage": 53,
-  "serious_injury": 43,
-  "fatality": 28
+  "minor_injury": 73,
+  "no_harm": 63,
+  "property_damage": 54,
+  "serious_injury": 44,
+  "fatality": 29
  },
  "by_escalation_stage": {
   "report": 168,
-  "follow_up": 31,
+  "follow_up": 32,
   "recall": 25,
-  "investigation": 17,
-  "lawsuit": 10,
+  "investigation": 18,
+  "lawsuit": 13,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 187,
+  "news": 192,
   "nhtsa": 54,
   "osha": 11,
   "cpsc": 3,
   "safetygate": 3
  },
  "by_company": {
-  "Waymo": 73,
-  "unattributed": 68,
+  "Waymo": 75,
+  "unattributed": 70,
   "Tesla": 14,
   "Unitree Robotics": 9,
   "Zoox": 9,
@@ -88,6 +88,7 @@
   "Qualcomm": 1,
   "Kyoto Humanoid Association (KyoHA)": 1,
   "Xpeng": 1,
+  "AgiBot": 1,
   "United States Department of Veterans Affairs": 1,
   "E-GYM North America, Inc": 1,
   "Saitama Institute of Technology": 1,
@@ -108,16 +109,16 @@
   "2021": 10,
   "2022": 9,
   "2023": 18,
-  "2024": 26,
-  "2025": 68,
-  "2026": 89
+  "2024": 27,
+  "2025": 69,
+  "2026": 92
  },
  "by_source_language": {
-  "unknown": 684,
+  "unknown": 692,
   "ja": 10,
-  "en": 6,
+  "en": 9,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-11T15:45:48+00:00"
+ "exported_at": "2026-11-12T13:31:53+00:00"
 }
