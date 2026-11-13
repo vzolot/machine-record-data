@@ -1,49 +1,49 @@
 {
- "total": 263,
- "events": 331,
- "sources": 715,
- "distinct_source_domains": 343,
+ "total": 274,
+ "events": 355,
+ "sources": 734,
+ "distinct_source_domains": 346,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 116,
+  "autonomous_vehicle": 118,
   "humanoid": 30,
   "delivery": 25,
   "consumer": 24,
+  "industrial": 21,
   "surgical": 18,
   "robot_arm": 17,
-  "industrial": 13,
+  "other": 9,
   "service": 8,
-  "other": 8,
   "warehouse_amr": 3,
   "agricultural": 1
  },
  "by_severity": {
-  "minor_injury": 73,
+  "minor_injury": 74,
   "no_harm": 63,
-  "property_damage": 54,
-  "serious_injury": 44,
-  "fatality": 29
+  "property_damage": 55,
+  "serious_injury": 50,
+  "fatality": 32
  },
  "by_escalation_stage": {
-  "report": 168,
-  "follow_up": 32,
+  "report": 171,
+  "follow_up": 31,
+  "investigation": 27,
   "recall": 25,
-  "investigation": 18,
   "lawsuit": 13,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 192,
+  "news": 195,
   "nhtsa": 54,
-  "osha": 11,
+  "osha": 19,
   "cpsc": 3,
   "safetygate": 3
  },
  "by_company": {
+  "unattributed": 79,
   "Waymo": 75,
-  "unattributed": 70,
   "Tesla": 14,
   "Unitree Robotics": 9,
   "Zoox": 9,
@@ -92,7 +92,9 @@
   "United States Department of Veterans Affairs": 1,
   "E-GYM North America, Inc": 1,
   "Saitama Institute of Technology": 1,
-  "Osaka Metro": 1
+  "Osaka Metro": 1,
+  "SoftBank": 1,
+  "Tier IV": 1
  },
  "by_year": {
   "1979": 1,
@@ -105,20 +107,20 @@
   "2017": 3,
   "2018": 3,
   "2019": 8,
-  "2020": 7,
-  "2021": 10,
+  "2020": 9,
+  "2021": 15,
   "2022": 9,
   "2023": 18,
-  "2024": 27,
-  "2025": 69,
-  "2026": 92
+  "2024": 28,
+  "2025": 70,
+  "2026": 94
  },
  "by_source_language": {
-  "unknown": 692,
-  "ja": 10,
-  "en": 9,
+  "unknown": 700,
+  "ja": 17,
+  "en": 13,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-12T16:28:52+00:00"
+ "exported_at": "2026-11-13T15:49:41+00:00"
 }
