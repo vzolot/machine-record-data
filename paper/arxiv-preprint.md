@@ -1,6 +1,6 @@
 # The Machine Record: a sourced register of incidents involving commercial robots and autonomous vehicles, followed from first report to legal or regulatory outcome
 
-Preprint, 14 November 2026. Figures describe the daily mirror of 14 November 2026; the next frozen release (1.2.0, January 2027) will be archived on Zenodo under the same concept DOI.
+Preprint, version 2 of 14 November 2026 (corrects the AIID comparison and adds the declarations on sponsorship and the use of AI tools). Figures describe the daily mirror of 14 November 2026; the next frozen release (1.2.0, January 2027) will be archived on Zenodo under the same concept DOI.
 
 ## Authors
 
@@ -32,7 +32,7 @@ Public records of harm caused by commercial robots are fragmented across news co
 
 ## Relation to the AI Incident Database
 
-The AI Incident Database (AIID) collects reports of harms involving AI systems of every kind, mostly software, and does not code what followed the first report as a separate field. In its public snapshot of 9 November 2026, 131 of 1,803 incidents concern a physical robot or an automated vehicle, identified by keyword and confirmed by a language model; 46 of them are consumer cars under driver assistance at SAE level 2 (mostly Tesla Autopilot and FSD Supervised), which the register excludes by design because a person at the wheel remains responsible. Of the remaining 85, the register describes the same event in 33 (32 register cases), each pair checked by a language model for the same machine, place and date rather than accepted on a shared source URL. The register holds 240 cases that AIID does not, 79 of them regulator records (NHTSA, OSHA, CPSC, EU Safety Gate) and 32 press cases followed to an investigation or beyond. The original reporting behind the other in-scope AIID incidents has been queued for the register's own verification. The two resources are complementary: AIID spans all AI, the register follows physical incidents to their outcome.
+The AI Incident Database (AIID) collects reports of harms involving AI systems of every kind, mostly software, and does not code what followed the first report as a separate field. In its public snapshot of 9 November 2026, 133 of 1,803 incidents concern a physical robot or an automated vehicle, identified by keyword and confirmed by a language model (one incident, on which the model gave no usable answer, was classified by hand); 46 of them are consumer cars under driver assistance at SAE level 2 (mostly Tesla Autopilot and FSD Supervised), which the register excludes by design because a person at the wheel remains responsible. Of the remaining 87, the register describes the same event in 33 (32 register cases), each pair checked by a language model for the same machine, place and date rather than accepted on a shared source URL. The register holds 240 cases that AIID does not, 79 of them regulator records (NHTSA, OSHA, CPSC, EU Safety Gate) and 32 press cases followed to an investigation or beyond. The original reporting behind the other in-scope AIID incidents has been queued for the register's own verification. The two resources are complementary: AIID spans all AI, the register follows physical incidents to their outcome.
 
 ## Data description
 
@@ -78,7 +78,11 @@ Volodymyr Zolotukhin: conceptualisation, software, data curation, methodology, w
 
 ## Declaration of competing interest
 
-The Machine Record sells email alerts, an API tier and company dossiers built on the same data; the data themselves are free under CC BY 4.0. The author has no financial relationship with any company named in the register.
+The author founded and runs The Machine Record, which sells email alerts, an API tier and company dossiers built on the same data and invites sponsorship of the register and of its annual report; the data themselves are free under CC BY 4.0. No sponsor had been signed when this version was written. Companies named in the register are not accepted as sponsors, and the author has no financial relationship with any of them. No external funding was received for this work.
+
+## Use of AI tools
+
+Large language models are part of the method and are described where they are used: Anthropic Claude models screen and verify reports in the pipeline, served as the second annotator in the inter-rater pilot and checked the pairs in the AIID comparison. The manuscript was also drafted with the help of Anthropic Claude (Claude Code), working from the register's database, code and documentation; the author reviewed, edited and checked every statement and figure against the data and takes full responsibility for the text.
 
 ## Data availability
 
