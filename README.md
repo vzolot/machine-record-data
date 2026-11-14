@@ -50,8 +50,8 @@ The first eleven columns of `cases.csv` are the same as in release 1.0.0; thirte
 
 Something that happened to a person, a vehicle or a piece of property, or an
 event a regulator or court acted on. Corporate news about robotics companies is
-out of scope. Cases are corroborated across at least two independent domains
-before publication; the rules are at
+out of scope. Press cases are checked against independent domains before
+publication, regulator and court records publish on their own authority; the rules are at
 [themachinerecord.com/methodology](https://themachinerecord.com/methodology).
 
 This is not a safety rating. Fleet sizes are not public, so incidents per
