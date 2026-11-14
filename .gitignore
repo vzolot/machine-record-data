@@ -1,2 +1,3 @@
 kaggle/data/
 __pycache__/
+.playwright-cli/
