@@ -6,7 +6,7 @@ Draft data descriptor, prepared for submission to Data in Brief (Elsevier) or Sc
 
 Volodymyr Zolotukhin (The Machine Record, Kyiv, Ukraine), hello@themachinerecord.com. Corresponding author.
 
-Co-authors to be invited from the research contacts of outreach wave 8 (see PROJECT.md), on the condition that they contribute the inter-rater round described under Methods. The register's public editing is done under the editorial name Nils Marlow; the data descriptor is authored under the maintainer's legal name.
+Co-authors to be invited from the research contacts of outreach wave 8 (see PROJECT.md), on the condition that they contribute the inter-rater round described under Methods. The register is edited and maintained by the author.
 
 ## Abstract
 
