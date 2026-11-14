@@ -4,7 +4,7 @@ Preprint, version 2 of 14 November 2026 (corrects the AIID comparison and adds t
 
 ## Authors
 
-Volodymyr Zolotukhin (The Machine Record, Kyiv, Ukraine), hello@themachinerecord.com. Corresponding author.
+Volodymyr Zolotukhin (The Machine Record, Kyiv, Ukraine), ORCID 0009-0008-1437-1183, hello@themachinerecord.com. Corresponding author.
 
 ## Abstract
 
