@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-15T18:21:31+00:00",
+ "exported_at": "2026-11-15T18:58:00+00:00",
  "total": 280,
  "cases": [
   {
@@ -778,7 +778,7 @@
    "environment": "factory",
    "robot_model": null,
    "company_slug": "tesla",
-   "summary": "On July 22, 2023, a robotics technician at Tesla's Fremont factory was helping an engineer disassemble a large robot from the Model 3 production line when the robot's arm struck him, according to his lawsuit; he was thrown to the floor and lost consciousness. In September 2025 he sued Tesla and FANUC, the robot's maker, for $51 million, alleging that the robot had not been safely de-energized and secured and had been placed in an area not designated for it. These are allegations in a lawsuit.",
+   "summary": "On July 22, 2023, a robotics technician at Tesla's Fremont factory was helping an engineer disassemble a large robot from the Model 3 production line when the robot's arm struck him, according to his lawsuit; he was thrown to the floor and lost consciousness. In 2025 he sued Tesla and FANUC, the robot's maker, for $51 million, alleging that the robot had not been safely de-energized and secured and had been placed in an area not designated for it. These are allegations in a lawsuit.",
    "origin": "news",
    "stage_evidence": "press",
    "disputed": false,
@@ -786,7 +786,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-15 18:20:56.445333+00"
+   "updated_at": "2026-11-15 18:57:41.749534+00"
   },
   {
    "ref": "TMR-0043",
