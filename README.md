@@ -7,7 +7,7 @@ documented incidents involving commercial physical robots, from robotaxis and
 sidewalk delivery robots to warehouse machines, surgical systems and humanoids.
 Each case on the site is followed from the first report through any recall,
 investigation, lawsuit or settlement, with sources archived when they were read
-(93 percent have an archived copy).
+(over 90 percent have an archived copy).
 
 This repository holds the **case metadata** as flat files, refreshed daily from
 the site's open API. The site remains the source of truth; the case page linked
