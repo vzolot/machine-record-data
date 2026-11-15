@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-15T12:29:05+00:00",
+ "exported_at": "2026-11-15T13:20:25+00:00",
  "total": 281,
  "cases": [
   {
@@ -246,7 +246,7 @@
    "ref": "TMR-0012",
    "url": "https://themachinerecord.com/case/a-starship-delivery-robot-at-arizona-state-university-abruptly-changed-direction-0012",
    "title": "A Starship delivery robot at Arizona State University abruptly changed direction, knocked over a university employee, and then reversed toward the victim while she was still on the ground, injuring her.",
-   "date_of_incident": "2023-09-19",
+   "date_of_incident": "2023-09-01",
    "company": "Starship Technologies",
    "category": "delivery",
    "incident_type": "collision",
@@ -254,7 +254,7 @@
    "location": "Tempe, Arizona, USA",
    "escalation_stage": "lawsuit",
    "sources": 9,
-   "date_precision": "day",
+   "date_precision": "month",
    "environment": "other",
    "robot_model": null,
    "company_slug": "starship-technologies",
@@ -266,7 +266,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-15 13:16:05.936356+00"
   },
   {
    "ref": "TMR-0013",
@@ -513,7 +513,7 @@
    "severity": "fatality",
    "location": "Germany",
    "escalation_stage": "report",
-   "sources": 20,
+   "sources": 17,
    "date_precision": "day",
    "environment": "factory",
    "robot_model": null,
@@ -526,7 +526,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-14 15:34:41.289164+00"
+   "updated_at": "2026-11-15 13:16:05.936356+00"
   },
   {
    "ref": "TMR-0028",

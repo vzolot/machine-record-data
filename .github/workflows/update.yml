@@ -34,8 +34,9 @@ jobs:
           git config user.email "hello@themachinerecord.com"
           git add data
           # summary.json and cases.json carry an export timestamp, so only
-          # commit when the CSV (pure data) differs.
-          if git diff --cached --quiet -- data/cases.csv; then
+          # commit when a CSV (pure data) differs. All four tables count: a fix
+          # to one timeline entry changes events.csv and nothing else.
+          if git diff --cached --quiet -- 'data/*.csv'; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No data change"
           else

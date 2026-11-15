@@ -1,8 +1,8 @@
 {
  "total": 281,
  "events": 365,
- "sources": 737,
- "distinct_source_domains": 345,
+ "sources": 734,
+ "distinct_source_domains": 343,
  "sgo_links": 16,
  "by_category": {
   "autonomous_vehicle": 118,
@@ -116,11 +116,11 @@
   "2026": 95
  },
  "by_source_language": {
-  "unknown": 702,
+  "unknown": 699,
   "ja": 17,
   "en": 14,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-15T12:29:05+00:00"
+ "exported_at": "2026-11-15T13:20:25+00:00"
 }
