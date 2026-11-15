@@ -1,56 +1,56 @@
 {
- "total": 272,
- "events": 349,
- "sources": 728,
+ "total": 281,
+ "events": 365,
+ "sources": 737,
  "distinct_source_domains": 345,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 116,
+  "autonomous_vehicle": 118,
   "humanoid": 30,
+  "industrial": 29,
   "delivery": 25,
   "consumer": 24,
-  "industrial": 21,
   "surgical": 18,
   "robot_arm": 17,
-  "other": 9,
   "service": 8,
+  "other": 8,
   "warehouse_amr": 3,
   "agricultural": 1
  },
  "by_severity": {
   "minor_injury": 73,
   "no_harm": 62,
-  "property_damage": 55,
-  "serious_injury": 50,
-  "fatality": 32
+  "serious_injury": 58,
+  "property_damage": 57,
+  "fatality": 31
  },
  "by_escalation_stage": {
-  "report": 173,
+  "report": 174,
+  "investigation": 34,
   "follow_up": 29,
-  "investigation": 27,
-  "recall": 23,
+  "recall": 24,
   "lawsuit": 13,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 193,
+  "news": 194,
   "nhtsa": 54,
-  "osha": 19,
+  "osha": 27,
   "cpsc": 3,
   "safetygate": 3
  },
  "by_company": {
-  "unattributed": 77,
-  "Waymo": 75,
+  "unattributed": 84,
+  "Waymo": 76,
   "Tesla": 14,
   "Unitree Robotics": 9,
   "Zoox": 9,
   "Starship Technologies": 8,
   "Cruise": 8,
   "Intuitive Surgical": 7,
-  "Avride": 4,
+  "Avride": 5,
   "Boston Dynamics": 4,
   "Coco Robotics": 3,
   "iRobot": 3,
@@ -105,22 +105,22 @@
   "2015": 5,
   "2016": 5,
   "2017": 3,
-  "2018": 3,
-  "2019": 8,
+  "2018": 4,
+  "2019": 15,
   "2020": 9,
   "2021": 15,
   "2022": 8,
   "2023": 18,
   "2024": 28,
   "2025": 69,
-  "2026": 94
+  "2026": 95
  },
  "by_source_language": {
-  "unknown": 694,
+  "unknown": 702,
   "ja": 17,
-  "en": 13,
+  "en": 14,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-14T15:35:04+00:00"
+ "exported_at": "2026-11-15T12:29:05+00:00"
 }
