@@ -1,13 +1,13 @@
 {
- "total": 280,
- "events": 363,
- "sources": 732,
- "distinct_source_domains": 341,
- "sgo_links": 16,
+ "total": 286,
+ "events": 360,
+ "sources": 742,
+ "distinct_source_domains": 342,
+ "sgo_links": 17,
  "by_category": {
-  "autonomous_vehicle": 118,
+  "autonomous_vehicle": 116,
+  "industrial": 36,
   "humanoid": 30,
-  "industrial": 28,
   "delivery": 25,
   "consumer": 24,
   "robot_arm": 18,
@@ -18,32 +18,32 @@
  },
  "by_severity": {
   "minor_injury": 73,
-  "no_harm": 62,
-  "serious_injury": 57,
+  "serious_injury": 64,
+  "no_harm": 60,
   "property_damage": 57,
-  "fatality": 31
+  "fatality": 32
  },
  "by_escalation_stage": {
   "report": 173,
-  "investigation": 34,
+  "investigation": 41,
   "follow_up": 29,
-  "recall": 24,
+  "recall": 23,
   "lawsuit": 13,
   "criminal_charge": 3,
   "regulator": 3,
   "settlement": 1
  },
  "by_origin": {
-  "news": 193,
+  "news": 191,
   "nhtsa": 54,
-  "osha": 27,
+  "osha": 35,
   "cpsc": 3,
   "safetygate": 3
  },
  "by_company": {
-  "unattributed": 83,
-  "Waymo": 76,
-  "Tesla": 14,
+  "unattributed": 91,
+  "Waymo": 75,
+  "Tesla": 13,
   "Unitree Robotics": 9,
   "Zoox": 9,
   "Starship Technologies": 8,
@@ -92,7 +92,7 @@
   "E-GYM North America, Inc": 1,
   "Saitama Institute of Technology": 1,
   "Osaka Metro": 1,
-  "SoftBank": 1,
+  "BOLDLY": 1,
   "Tier IV": 1
  },
  "by_year": {
@@ -103,8 +103,8 @@
   "2014": 1,
   "2015": 5,
   "2016": 5,
-  "2017": 3,
-  "2018": 4,
+  "2017": 6,
+  "2018": 9,
   "2019": 14,
   "2020": 9,
   "2021": 15,
@@ -112,14 +112,14 @@
   "2023": 18,
   "2024": 28,
   "2025": 69,
-  "2026": 95
+  "2026": 93
  },
  "by_source_language": {
-  "unknown": 697,
+  "unknown": 705,
   "ja": 17,
-  "en": 14,
+  "en": 16,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-15T18:58:00+00:00"
+ "exported_at": "2026-11-16T17:44:37+00:00"
 }
