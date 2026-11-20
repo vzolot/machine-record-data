@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-19T16:58:33+00:00",
+ "exported_at": "2026-11-20T16:34:14+00:00",
  "total": 295,
  "cases": [
   {
@@ -940,7 +940,7 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 9,
+   "events": 6,
    "published_at": "2026-08-02 21:58:43.286187+00",
    "updated_at": "2026-11-19 16:32:19.916592+00"
   },
@@ -7637,7 +7637,7 @@
    "severity": "no_harm",
    "location": "U.S. Route 101 near Burlingame, California (with a related incident on Interstate 280 in San Francisco)",
    "escalation_stage": "investigation",
-   "sources": 10,
+   "sources": 11,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -7648,9 +7648,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 11,
+   "events": 12,
    "published_at": "2026-11-18 06:27:47.586461+00",
-   "updated_at": "2026-11-19 09:55:38.013896+00"
+   "updated_at": "2026-11-20 06:22:04.516588+00"
   },
   {
    "ref": "TMR-0949",
