@@ -1,15 +1,15 @@
 {
  "total": 298,
- "events": 426,
- "sources": 779,
- "distinct_source_domains": 359,
+ "events": 436,
+ "sources": 781,
+ "distinct_source_domains": 360,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 121,
+  "autonomous_vehicle": 122,
   "industrial": 41,
   "humanoid": 30,
   "delivery": 25,
-  "consumer": 25,
+  "consumer": 24,
   "robot_arm": 18,
   "surgical": 17,
   "other": 10,
@@ -24,10 +24,10 @@
   "fatality": 33
  },
  "by_escalation_stage": {
-  "report": 180,
+  "report": 179,
   "investigation": 48,
-  "follow_up": 29,
-  "recall": 23,
+  "follow_up": 28,
+  "recall": 25,
   "lawsuit": 11,
   "criminal_charge": 3,
   "regulator": 3,
@@ -42,7 +42,7 @@
  },
  "by_company": {
   "unattributed": 97,
-  "Waymo": 80,
+  "Waymo": 81,
   "Tesla": 14,
   "Unitree Robotics": 9,
   "Zoox": 9,
@@ -54,11 +54,11 @@
   "Coco Robotics": 3,
   "iRobot": 3,
   "Baidu": 3,
-  "Ecovacs": 3,
   "Amazon": 2,
   "Serve Robotics": 2,
   "Husqvarna": 2,
   "Globus Medical": 2,
+  "Ecovacs": 2,
   "Figure AI": 2,
   "Honda": 2,
   "Ocado": 1,
@@ -110,16 +110,16 @@
   "2021": 15,
   "2022": 8,
   "2023": 18,
-  "2024": 27,
+  "2024": 26,
   "2025": 69,
-  "2026": 102
+  "2026": 103
  },
  "by_source_language": {
-  "unknown": 712,
-  "en": 46,
+  "unknown": 710,
+  "en": 50,
   "ja": 17,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-21T15:50:24+00:00"
+ "exported_at": "2026-11-22T15:49:43+00:00"
 }
