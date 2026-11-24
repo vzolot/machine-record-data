@@ -5,7 +5,7 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-23T19:42:42+00:00",
+ "exported_at": "2026-11-24T19:15:27+00:00",
  "total": 294,
  "cases": [
   {
@@ -193,9 +193,9 @@
   {
    "ref": "TMR-0009",
    "url": "https://themachinerecord.com/case/an-uber-eats-delivery-robot-became-stuck-on-railroad-tracks-in-miami-and-was-str-0009",
-   "title": "An Uber Eats delivery robot became stuck on railroad tracks in Miami and was struck and destroyed by an oncoming train on January 15, 2026, with no injuries reported.",
+   "title": "A Coco delivery robot working for Uber Eats became stuck on railroad tracks in Miami and was struck and destroyed by an oncoming train on January 15, 2026, with no injuries reported.",
    "date_of_incident": "2026-01-15",
-   "company": "Uber Eats",
+   "company": "Coco Robotics",
    "category": "delivery",
    "incident_type": "collision",
    "severity": "property_damage",
@@ -205,8 +205,8 @@
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
-   "company_slug": "uber-eats",
-   "summary": "An Uber Eats delivery robot became stuck on railroad tracks in Miami and was struck and destroyed by an oncoming train on January 15, 2026, with no injuries reported.",
+   "company_slug": "coco-robotics",
+   "summary": "A Coco delivery robot working for Uber Eats became stuck on railroad tracks in Miami and was struck and destroyed by an oncoming train on January 15, 2026, with no injuries reported.",
    "origin": "news",
    "stage_evidence": "press",
    "disputed": false,
@@ -214,7 +214,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-24 16:29:26.243717+00"
   },
   {
    "ref": "TMR-0011",
@@ -481,7 +481,7 @@
    "url": "https://themachinerecord.com/case/a-25-year-old-ford-assembly-line-worker-was-killed-instantly-when-a-robot-arm-st-0023",
    "title": "A 25-year-old Ford assembly line worker was killed instantly when a robot arm struck him in the head while he was gathering parts in a storage facility at a Ford casting plant in Flat Rock, Michigan.",
    "date_of_incident": "1979-01-25",
-   "company": null,
+   "company": "Ford",
    "category": "robot_arm",
    "incident_type": "fatality",
    "severity": "fatality",
@@ -491,7 +491,7 @@
    "date_precision": "day",
    "environment": "factory",
    "robot_model": null,
-   "company_slug": null,
+   "company_slug": "ford",
    "summary": "A 25-year-old Ford assembly line worker was killed instantly when a robot arm struck him in the head while he was gathering parts in a storage facility at a Ford casting plant in Flat Rock, Michigan.",
    "origin": "news",
    "stage_evidence": "press",
@@ -500,7 +500,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-12 16:18:03.451866+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0024",
@@ -1340,7 +1340,7 @@
    "title": "A system malfunction caused multiple Baidu Apollo Go driverless robotaxis to stall in the middle of roads in Wuhan, leaving passengers stranded for hours, with police confirming the incident after receiving numerous calls on Tuesday night.",
    "date_of_incident": "2026-03-31",
    "company": "Baidu",
-   "category": "delivery",
+   "category": "autonomous_vehicle",
    "incident_type": "malfunction",
    "severity": "no_harm",
    "location": "Wuhan, China",
@@ -1358,7 +1358,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0069",
@@ -1488,7 +1488,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-22 06:29:42.515194+00"
+   "updated_at": "2026-11-24 06:24:52.006377+00"
   },
   {
    "ref": "TMR-0077",
@@ -1756,7 +1756,7 @@
    "title": "A Waymo robotaxi parked in a bike lane on Seventh Street in San Francisco opened its rear passenger door into a cyclist, ejecting her into a second Waymo and causing serious injuries including a brain injury and spine damage.",
    "date_of_incident": "2025-02-16",
    "company": "Waymo",
-   "category": "other",
+   "category": "autonomous_vehicle",
    "incident_type": "lawsuit",
    "severity": "serious_injury",
    "location": "San Francisco, California, USA",
@@ -1774,7 +1774,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-12 12:49:00.937583+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0089",
@@ -2432,7 +2432,7 @@
    "title": "A Waymo robotaxi collided with a Serve Robotics sidewalk delivery robot at an intersection in West Hollywood, Los Angeles, with neither vehicle sustaining damage.",
    "date_of_incident": "2024-12-27",
    "company": "Waymo",
-   "category": "delivery",
+   "category": "autonomous_vehicle",
    "incident_type": "collision",
    "severity": "no_harm",
    "location": "West Hollywood, California, USA",
@@ -2450,7 +2450,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:25:59.614353+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0117",
@@ -2470,13 +2470,13 @@
    "company_slug": "waymo",
    "summary": "A Waymo robotaxi slowing to turn into a parking lot on Rural Road near Arizona State University was rear-ended by a motorcyclist, who was then struck by a hit-and-run human driver and later died at the hospital.",
    "origin": "news",
-   "stage_evidence": "press",
+   "stage_evidence": "document",
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-23 10:39:02.928973+00"
+   "updated_at": "2026-11-24 09:24:44.25613+00"
   },
   {
    "ref": "TMR-0118",
@@ -2500,7 +2500,7 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 1,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
    "updated_at": "2026-10-25 21:07:54.911463+00"
   },
@@ -2886,13 +2886,13 @@
    "company_slug": null,
    "summary": "A man in his 20s was killed when he was pinned by a welding robot at the Unipres USA manufacturing plant in Forest, Mississippi.",
    "origin": "news",
-   "stage_evidence": "press",
+   "stage_evidence": "document",
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-12 12:37:19.271743+00"
+   "updated_at": "2026-11-24 09:24:43.498703+00"
   },
   {
    "ref": "TMR-0139",
@@ -3075,6 +3075,32 @@
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
    "updated_at": "2026-10-25 21:07:54.911463+00"
+  },
+  {
+   "ref": "TMR-0148",
+   "url": "https://themachinerecord.com/case/hackers-remotely-took-control-of-ecovacs-deebot-x2-robot-vacuums-in-multiple-us--0148",
+   "title": "Hackers remotely took control of Ecovacs Deebot X2 robot vacuums in multiple US cities, using their speakers to yell racial slurs at owners and their cameras to surveil homes.",
+   "date_of_incident": "2024-05-24",
+   "company": "Ecovacs",
+   "category": "consumer",
+   "incident_type": "other",
+   "severity": "no_harm",
+   "location": "Multiple US cities (including Minnesota, Los Angeles CA, El Paso TX), USA",
+   "escalation_stage": "follow_up",
+   "sources": 2,
+   "date_precision": "day",
+   "environment": "home",
+   "robot_model": "Deebot X2",
+   "company_slug": "ecovacs",
+   "summary": "Hackers remotely took control of Ecovacs Deebot X2 robot vacuums in multiple US cities, using their speakers to yell racial slurs at owners and their cameras to surveil homes.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 1,
+   "published_at": "2026-08-02 21:58:43.286187+00",
+   "updated_at": "2026-11-24 09:24:17.194692+00"
   },
   {
    "ref": "TMR-0149",
@@ -3644,9 +3670,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 1,
+   "events": 2,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-10-25 21:07:54.911463+00"
+   "updated_at": "2026-11-24 09:25:14.13818+00"
   },
   {
    "ref": "TMR-0176",
@@ -3866,7 +3892,7 @@
    "incident_type": "other",
    "severity": "no_harm",
    "location": "Austin, Texas, USA",
-   "escalation_stage": "regulator",
+   "escalation_stage": "follow_up",
    "sources": 13,
    "date_precision": "day",
    "environment": "street",
@@ -3878,9 +3904,9 @@
    "disputed": true,
    "units_affected": null,
    "incident_reports": null,
-   "events": 5,
+   "events": 4,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-11-23 10:39:04.193422+00"
+   "updated_at": "2026-11-24 09:24:54.238543+00"
   },
   {
    "ref": "TMR-0204",
@@ -4197,9 +4223,9 @@
   {
    "ref": "TMR-0228",
    "url": "https://themachinerecord.com/case/uber-eats-delivery-robots-were-vandalised-in-a-sheffield-suburb-0228",
-   "title": "Uber Eats delivery robots were vandalised in a Sheffield suburb",
+   "title": "Starship delivery robots working for Uber Eats were vandalised in a Sheffield suburb",
    "date_of_incident": "2026-03-31",
-   "company": null,
+   "company": "Starship Technologies",
    "category": "delivery",
    "incident_type": "other",
    "severity": "property_damage",
@@ -4209,8 +4235,8 @@
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
-   "company_slug": null,
-   "summary": "Uber Eats delivery robots were vandalised in a Sheffield suburb",
+   "company_slug": "starship-technologies",
+   "summary": "Starship delivery robots working for Uber Eats were vandalised in a Sheffield suburb.",
    "origin": "news",
    "stage_evidence": "press",
    "disputed": false,
@@ -4218,7 +4244,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:13.011662+00"
+   "updated_at": "2026-11-24 16:29:26.243717+00"
   },
   {
    "ref": "TMR-0230",
@@ -4277,7 +4303,7 @@
    "url": "https://themachinerecord.com/case/man-wearing-motion-capture-suit-suffered-injury-while-controlling-a-unitree-g1-h-0235",
    "title": "Man wearing motion capture suit suffered injury while controlling a Unitree G1 humanoid robot",
    "date_of_incident": "2025-12-28",
-   "company": null,
+   "company": "Unitree Robotics",
    "category": "humanoid",
    "incident_type": "injury",
    "severity": "minor_injury",
@@ -4287,7 +4313,7 @@
    "date_precision": "day",
    "environment": "other",
    "robot_model": "G1",
-   "company_slug": null,
+   "company_slug": "unitree-robotics",
    "summary": "Man wearing motion capture suit suffered injury while controlling a Unitree G1 humanoid robot",
    "origin": "news",
    "stage_evidence": "press",
@@ -4296,7 +4322,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:13.926136+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0237",
@@ -4325,37 +4351,11 @@
    "updated_at": "2026-10-25 21:07:54.911463+00"
   },
   {
-   "ref": "TMR-0238",
-   "url": "https://themachinerecord.com/case/ai-humanoid-robot-collapsed-during-a-live-demonstration-in-taiwan-video-went-vir-0238",
-   "title": "AI humanoid robot collapsed during a live demonstration in Taiwan, video went viral.",
-   "date_of_incident": "2026-07-30",
-   "company": null,
-   "category": "humanoid",
-   "incident_type": "malfunction",
-   "severity": "no_harm",
-   "location": "Taiwan",
-   "escalation_stage": "report",
-   "sources": 1,
-   "date_precision": "day",
-   "environment": "other",
-   "robot_model": null,
-   "company_slug": null,
-   "summary": "AI humanoid robot collapsed during a live demonstration in Taiwan, video went viral.",
-   "origin": "news",
-   "stage_evidence": "press",
-   "disputed": false,
-   "units_affected": null,
-   "incident_reports": null,
-   "events": 1,
-   "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:14.315069+00"
-  },
-  {
    "ref": "TMR-0240",
    "url": "https://themachinerecord.com/case/zimmer-surgical-robot-subject-to-class-i-recall-due-to-a-software-glitch-0240",
    "title": "Zimmer surgical robot subject to Class I recall due to a software glitch.",
    "date_of_incident": "2021-10-29",
-   "company": null,
+   "company": "Zimmer Biomet",
    "category": "surgical",
    "incident_type": "recall",
    "severity": "no_harm",
@@ -4365,7 +4365,7 @@
    "date_precision": "day",
    "environment": "hospital",
    "robot_model": null,
-   "company_slug": null,
+   "company_slug": "zimmer-biomet",
    "summary": "Zimmer surgical robot subject to Class I recall due to a software glitch.",
    "origin": "news",
    "stage_evidence": "press",
@@ -4374,14 +4374,14 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-07 07:26:14.572044+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0243",
    "url": "https://themachinerecord.com/case/six-waymo-robotaxis-blocked-traffic-at-a-san-francisco-freeway-on-ramp-0243",
    "title": "Six Waymo robotaxis blocked traffic at a San Francisco freeway on-ramp.",
    "date_of_incident": "2024-04-17",
-   "company": null,
+   "company": "Waymo",
    "category": "autonomous_vehicle",
    "incident_type": "malfunction",
    "severity": "no_harm",
@@ -4391,7 +4391,7 @@
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
-   "company_slug": null,
+   "company_slug": "waymo",
    "summary": "Six Waymo robotaxis blocked traffic at a San Francisco freeway on-ramp.",
    "origin": "news",
    "stage_evidence": "press",
@@ -4400,7 +4400,7 @@
    "incident_reports": null,
    "events": 1,
    "published_at": "2026-08-02 21:58:43.286187+00",
-   "updated_at": "2026-09-22 07:32:59.509927+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0244",
@@ -6513,7 +6513,7 @@
    "url": "https://themachinerecord.com/case/a-grab-autonomous-vehicle-nearly-struck-a-schoolgirl-while-making-a-left-turn-at-0904",
    "title": "A Grab autonomous vehicle nearly struck a schoolgirl while making a left turn at a Punggol junction on 5 November 2026, prompting LTA to direct Grab to pause testing at similar junctions.",
    "date_of_incident": "2026-11-05",
-   "company": null,
+   "company": "Grab",
    "category": "autonomous_vehicle",
    "incident_type": "near_miss",
    "severity": "no_harm",
@@ -6523,7 +6523,7 @@
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
-   "company_slug": null,
+   "company_slug": "grab",
    "summary": "On the morning of 5 November 2026 at around 8:11 am, a Grab autonomous shuttle making a left turn at a Punggol Field Walk junction came close to hitting a young girl who stepped off the kerb to cross the road. A woman nearby stopped the girl in time, and the vehicle's safety operator took over to brake and steer away. The Land Transport Authority, notified on 5 November, directed Grab to suspend autonomous vehicle testing at such junctions pending investigation, and said it would review whether the vehicle's response in similar scenarios needed adjustment. Grab confirmed it was conducting a detailed review together with LTA and its partner WeRide.",
    "origin": "news",
    "stage_evidence": "press",
@@ -6532,7 +6532,7 @@
    "incident_reports": null,
    "events": 2,
    "published_at": "2026-11-07 06:23:40.739767+00",
-   "updated_at": "2026-11-07 06:23:40.739767+00"
+   "updated_at": "2026-11-24 15:50:08.814797+00"
   },
   {
    "ref": "TMR-0905",
@@ -6558,7 +6558,7 @@
    "incident_reports": null,
    "events": 7,
    "published_at": "2026-11-10 06:22:54.504161+00",
-   "updated_at": "2026-11-15 09:24:52.964864+00"
+   "updated_at": "2026-11-24 09:24:17.398301+00"
   },
   {
    "ref": "TMR-0908",
@@ -7558,8 +7558,8 @@
    "incident_type": "malfunction",
    "severity": "property_damage",
    "location": "San Francisco Bay Area, California, USA",
-   "escalation_stage": "report",
-   "sources": 6,
+   "escalation_stage": "follow_up",
+   "sources": 7,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -7570,9 +7570,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 11,
+   "events": 12,
    "published_at": "2026-11-19 09:50:05.046494+00",
-   "updated_at": "2026-11-23 08:16:13.369161+00"
+   "updated_at": "2026-11-24 06:18:32.110506+00"
   },
   {
    "ref": "TMR-0954",
@@ -7585,7 +7585,7 @@
    "severity": "no_harm",
    "location": "California, USA",
    "escalation_stage": "recall",
-   "sources": 9,
+   "sources": 10,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -7596,9 +7596,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 13,
+   "events": 14,
    "published_at": "2026-11-22 06:23:56.461034+00",
-   "updated_at": "2026-11-23 08:23:37.26633+00"
+   "updated_at": "2026-11-24 06:24:17.439897+00"
   },
   {
    "ref": "TMR-0955",
@@ -7610,8 +7610,8 @@
    "incident_type": "collision",
    "severity": "property_damage",
    "location": "National Route 421, Kiwada-cho, Higashiomi, Shiga Prefecture, Japan",
-   "escalation_stage": "report",
-   "sources": 2,
+   "escalation_stage": "follow_up",
+   "sources": 3,
    "date_precision": "day",
    "environment": "street",
    "robot_model": "Okuei-genji Keiryu Car (Okueigenji Keiryu Car), a 6-seat cart-type Level 2 autonomous vehicle",
@@ -7622,9 +7622,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 2,
+   "events": 3,
    "published_at": "2026-11-23 08:06:56.497368+00",
-   "updated_at": "2026-11-23 08:06:56.497368+00"
+   "updated_at": "2026-11-24 06:15:47.102346+00"
   },
   {
    "ref": "TMR-0956",

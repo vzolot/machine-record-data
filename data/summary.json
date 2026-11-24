@@ -1,19 +1,19 @@
 {
  "total": 294,
- "events": 431,
- "sources": 771,
+ "events": 434,
+ "sources": 772,
  "distinct_source_domains": 353,
  "sgo_links": 16,
  "by_category": {
-  "autonomous_vehicle": 123,
+  "autonomous_vehicle": 126,
   "industrial": 40,
-  "humanoid": 30,
-  "delivery": 24,
-  "consumer": 23,
+  "humanoid": 29,
+  "consumer": 24,
+  "delivery": 22,
   "robot_arm": 18,
   "surgical": 17,
   "service": 8,
-  "other": 8,
+  "other": 7,
   "warehouse_amr": 3
  },
  "by_severity": {
@@ -24,13 +24,13 @@
   "fatality": 31
  },
  "by_escalation_stage": {
-  "report": 177,
+  "report": 174,
   "investigation": 48,
-  "follow_up": 27,
+  "follow_up": 31,
   "recall": 24,
   "lawsuit": 11,
   "criminal_charge": 3,
-  "regulator": 3,
+  "regulator": 2,
   "settlement": 1
  },
  "by_origin": {
@@ -41,31 +41,31 @@
   "safetygate": 3
  },
  "by_company": {
-  "unattributed": 94,
-  "Waymo": 80,
+  "unattributed": 87,
+  "Waymo": 81,
   "Tesla": 14,
-  "Unitree Robotics": 9,
+  "Unitree Robotics": 10,
+  "Starship Technologies": 9,
   "Zoox": 9,
-  "Starship Technologies": 8,
   "Cruise": 8,
   "Intuitive Surgical": 7,
   "Avride": 5,
+  "Coco Robotics": 4,
   "Boston Dynamics": 4,
-  "Coco Robotics": 3,
   "iRobot": 3,
   "Baidu": 3,
+  "Ecovacs": 3,
   "Amazon": 2,
   "Serve Robotics": 2,
   "Husqvarna": 2,
   "Globus Medical": 2,
-  "Ecovacs": 2,
   "Figure AI": 2,
   "Honda": 2,
   "Ocado": 1,
-  "Uber Eats": 1,
   "Kiwibot": 1,
   "Knightscope": 1,
   "Ajin USA (Joon LLC)": 1,
+  "Ford": 1,
   "Volkswagen": 1,
   "EngineAI": 1,
   "AIDOL": 1,
@@ -88,10 +88,12 @@
   "Kyoto Humanoid Association (KyoHA)": 1,
   "Xpeng": 1,
   "AgiBot": 1,
+  "Zimmer Biomet": 1,
   "United States Department of Veterans Affairs": 1,
   "E-GYM North America, Inc": 1,
   "Saitama Institute of Technology": 1,
   "Osaka Metro": 1,
+  "Grab": 1,
   "BOLDLY": 1,
   "Tier IV": 1
  },
@@ -110,16 +112,16 @@
   "2021": 15,
   "2022": 8,
   "2023": 18,
-  "2024": 26,
+  "2024": 27,
   "2025": 68,
-  "2026": 100
+  "2026": 99
  },
  "by_source_language": {
-  "unknown": 711,
+  "unknown": 712,
   "en": 37,
   "ja": 19,
   "de": 2,
   "zh": 2
  },
- "exported_at": "2026-11-23T19:42:42+00:00"
+ "exported_at": "2026-11-24T19:15:27+00:00"
 }
