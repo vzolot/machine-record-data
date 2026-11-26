@@ -5,8 +5,8 @@
  "source": "https://themachinerecord.com",
  "api": "https://themachinerecord.com/api/public/cases",
  "codebook": "https://github.com/vzolot/machine-record-data/blob/main/CODEBOOK.md",
- "exported_at": "2026-11-25T18:20:00+00:00",
- "total": 294,
+ "exported_at": "2026-11-26T18:00:34+00:00",
+ "total": 295,
  "cases": [
   {
    "ref": "TMR-0001",
@@ -7533,7 +7533,7 @@
    "severity": "no_harm",
    "location": "U.S. Route 101 near Burlingame, California (with a related incident on Interstate 280 in San Francisco)",
    "escalation_stage": "investigation",
-   "sources": 18,
+   "sources": 19,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -7544,9 +7544,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 19,
+   "events": 20,
    "published_at": "2026-11-18 06:27:47.586461+00",
-   "updated_at": "2026-11-25 08:12:31.887264+00"
+   "updated_at": "2026-11-26 06:25:37.164034+00"
   },
   {
    "ref": "TMR-0949",
@@ -7585,7 +7585,7 @@
    "severity": "no_harm",
    "location": "California, USA",
    "escalation_stage": "recall",
-   "sources": 11,
+   "sources": 15,
    "date_precision": "day",
    "environment": "street",
    "robot_model": null,
@@ -7596,9 +7596,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 16,
+   "events": 20,
    "published_at": "2026-11-22 06:23:56.461034+00",
-   "updated_at": "2026-11-25 08:18:50.404965+00"
+   "updated_at": "2026-11-26 06:34:50.799722+00"
   },
   {
    "ref": "TMR-0955",
@@ -7611,7 +7611,7 @@
    "severity": "property_damage",
    "location": "National Route 421, Kiwada-cho, Higashiomi, Shiga Prefecture, Japan",
    "escalation_stage": "follow_up",
-   "sources": 3,
+   "sources": 4,
    "date_precision": "day",
    "environment": "street",
    "robot_model": "Okuei-genji Keiryu Car (Okueigenji Keiryu Car), a 6-seat cart-type Level 2 autonomous vehicle",
@@ -7622,9 +7622,9 @@
    "disputed": false,
    "units_affected": null,
    "incident_reports": null,
-   "events": 3,
+   "events": 4,
    "published_at": "2026-11-23 08:06:56.497368+00",
-   "updated_at": "2026-11-24 06:15:47.102346+00"
+   "updated_at": "2026-11-26 06:29:24.851847+00"
   },
   {
    "ref": "TMR-0956",
@@ -7651,6 +7651,32 @@
    "events": 3,
    "published_at": "2026-11-23 08:20:00.94669+00",
    "updated_at": "2026-11-23 08:20:00.94669+00"
+  },
+  {
+   "ref": "TMR-0957",
+   "url": "https://themachinerecord.com/case/a-waymo-robotaxi-and-a-miami-police-cruiser-collided-in-little-havana-waymo-says-0957",
+   "title": "A Waymo robotaxi and a Miami police cruiser collided in Little Havana; Waymo says its vehicle was stopped at a light when another vehicle pushed the cruiser into it, and one person was taken to hospital",
+   "date_of_incident": "2026-11-22",
+   "company": "Waymo",
+   "category": "autonomous_vehicle",
+   "incident_type": "collision",
+   "severity": "minor_injury",
+   "location": "Intersection of Northwest 17th Avenue and Seventh Street, Little Havana, Miami, Florida",
+   "escalation_stage": "report",
+   "sources": 4,
+   "date_precision": "day",
+   "environment": "street",
+   "robot_model": null,
+   "company_slug": "waymo",
+   "summary": "On Sunday, November 22, 2026, around 10:30 a.m., a Waymo autonomous vehicle and a Miami police cruiser collided at Northwest 17th Avenue and Seventh Street in Little Havana. Waymo said its vehicle was stopped at a traffic light and that another vehicle hit the police car, pushing it into the Waymo. Police said one person from the Waymo was taken to the hospital (Jackson Memorial per one report) and their condition was unknown. Airbags deployed in the Waymo, both vehicles had significant damage, a third damaged car was at the scene, and police were still investigating the cause of the crash.",
+   "origin": "news",
+   "stage_evidence": "press",
+   "disputed": false,
+   "units_affected": null,
+   "incident_reports": null,
+   "events": 4,
+   "published_at": "2026-11-26 06:26:10.736173+00",
+   "updated_at": "2026-11-26 06:26:10.736173+00"
   }
  ]
 }
