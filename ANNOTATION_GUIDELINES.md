@@ -85,7 +85,7 @@ Where the machine was operating: `street` (roads, sidewalks, parking, public spa
 
 ### `escalation_stage` and `stage_evidence`
 
-The furthest point the consequences reached, as recorded on the timeline. The stages, from least to most consequential: `report`, `follow_up`, `investigation`, `regulator`, `recall`, `fine`, `lawsuit`, `settlement`, `criminal_charge`. A stage is `document` when established by a regulator or court document linked to the case, otherwise `press`. A tabloid saying a company "was fined" does not set the stage to fine; a regulator's notice does. The stage is read off the timeline, not off any one article: `follow_up` means a later source added facts after the first report, and a second annotator working from a single story should code `report` unless that story itself reports a later development.
+The furthest point the consequences reached, as recorded on the timeline. The stages, from least to most consequential: `report`, `follow_up`, `investigation`, `regulator`, `recall`, `fine`, `lawsuit`, `settlement`, `criminal_charge`. A stage is `document` when established by a regulator or court document linked to the case, or by an operator's report filed with a regulator and obtained through a records request, otherwise `press`. A tabloid saying a company "was fined" does not set the stage to fine; a regulator's notice does. The stage is read off the timeline, not off any one article: `follow_up` means a later source added facts after the first report, and a second annotator working from a single story should code `report` unless that story itself reports a later development.
 
 ### `title` and `summary`
 

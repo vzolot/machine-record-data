@@ -32,7 +32,7 @@ Until release 1.1.0 an incident in Shenzhen or Osaka entered the register only i
 
 ## 8. Cases from regulator documents did not go through the news gates
 
-Rows with `origin` of `nhtsa`, `osha`, `cpsc`, `safetygate` or `transportstyrelsen` were created from one primary document each, on purpose: the document is the evidence rather than an account of it. They carry `stage_evidence = document`. `transportstyrelsen` rows come from reports that trial permit holders filed with the Swedish Transport Agency and that the register obtained through a records request; the files are not republished because they carry staff names, so each source is a page on themachinerecord.com/documents with the agency's case number for requesting a copy. NHTSA rows are a severe subset of the SGO file (hospitalisation or worse), not every filing; the full SGO table is on the site.
+Rows with `origin` of `nhtsa`, `osha`, `cpsc`, `safetygate` or `transportstyrelsen` were created from one primary document each, on purpose: the document is the record itself rather than a retelling of it (for `transportstyrelsen`, the operator's own account as filed with the regulator). They carry `stage_evidence = document`. `transportstyrelsen` rows come from reports that trial permit holders filed with the Swedish Transport Agency and that the register obtained through a records request; the files are not republished because they carry staff names, so each source is a page on themachinerecord.com/documents with the agency's case number for requesting a copy. NHTSA rows are a severe subset of the SGO file (hospitalisation or worse), not every filing; the full SGO table is on the site.
 
 ## 9. Duplicates have been found and merged, and more may exist
 
