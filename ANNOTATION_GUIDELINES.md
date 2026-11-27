@@ -71,7 +71,7 @@ What happened, one value. When several apply, the most consequential wins in thi
 | `fine` | the case is a fine or penalty |
 | `citation` | the case is a regulator's citation |
 
-A row created from a regulator's document carries the type of that document, not of the underlying event: `origin = nhtsa` is `collision` (a Standing General Order filing is a crash report), `origin = osha` is `investigation` (an inspection record), `origin = cpsc` and `origin = safetygate` are `recall`. The harm is in `severity`. A press case about the same event is coded from the event.
+A row created from a regulator's document carries the type of that document, not of the underlying event: `origin = nhtsa` is `collision` (a Standing General Order filing is a crash report), `origin = osha` is `investigation` (an inspection record), `origin = cpsc` and `origin = safetygate` are `recall`. `origin = transportstyrelsen` is coded from the event the operator reports (a collision report is `collision`), because the document is the operator's own account of the incident, not a regulatory action. The harm is in `severity`. A press case about the same event is coded from the event.
 
 ### `severity` (closed set, ordered)
 

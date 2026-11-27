@@ -26,7 +26,7 @@ One row per published case. The first eleven columns keep the names and order of
 | `robot_model` | string | Product name as the maker writes it; empty if not given |
 | `company_slug` | string | Key of the company page, `https://themachinerecord.com/company/<company_slug>` |
 | `summary` | string | Two to four factual sentences, each traceable to a source; public version with private names removed |
-| `origin` | enum | Where the case came from: `news` (press, through the gates), `nhtsa` (Standing General Order filing), `osha` (workplace inspection record), `cpsc` (consumer product recall), `safetygate` (EU Safety Gate alert) |
+| `origin` | enum | Where the case came from: `news` (press, through the gates), `nhtsa` (Standing General Order filing), `osha` (workplace inspection record), `cpsc` (consumer product recall), `safetygate` (EU Safety Gate alert), `transportstyrelsen` (operator report to the Swedish Transport Agency, obtained by public records request; the source is a register page at themachinerecord.com/documents describing the record and quoting it) |
 | `stage_evidence` | enum | What establishes `escalation_stage`: `document` (a regulator or court document linked to the case) or `press` |
 | `disputed` | boolean | A named company has contested the case through the right of reply; the dispute is published on the case page |
 | `units_affected` | integer | For recalls, the number of units the notice covers; empty otherwise |
