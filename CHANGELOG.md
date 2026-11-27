@@ -27,7 +27,7 @@ Data
 
 Data, 2026-11-27
 
-- Seven cases from reports that trial permit holders filed with the Swedish Transport Agency (Transportstyrelsen), released to the register under the Swedish principle of public access on 2026-11-26: TMR-0961 to TMR-0966 with the new `origin` value `transportstyrelsen` (the source is a register page per document at themachinerecord.com/documents, with the agency's case number and the passages relied on; the files are not republished because they carry staff names), and TMR-0967, a press case (25 May 2026, Gothenburg) whose timeline adds the operator's internal investigation. `incident_type` on `transportstyrelsen` rows is coded from the reported event, since the document is the operator's account, not a regulatory action.
+- Eight cases from reports that trial permit holders filed with the Swedish Transport Agency (Transportstyrelsen), released to the register under the Swedish principle of public access on 2026-11-26: TMR-0961 to TMR-0966 and TMR-0968 with the new `origin` value `transportstyrelsen` (the source is a register page per document at themachinerecord.com/documents, with the agency's case number and the passages relied on; the files are not republished because they carry staff names), and TMR-0967, a press case (25 May 2026, Gothenburg) whose timeline adds the operator's internal investigation. `incident_type` on `transportstyrelsen` rows is coded from the reported event, since the document is the operator's account, not a regulatory action.
 
 Data, 2026-11-12
 
