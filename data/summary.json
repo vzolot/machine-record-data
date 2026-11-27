@@ -1,15 +1,15 @@
 {
- "total": 295,
- "events": 448,
- "sources": 776,
- "distinct_source_domains": 355,
- "sgo_links": 16,
+ "total": 305,
+ "events": 481,
+ "sources": 796,
+ "distinct_source_domains": 367,
+ "sgo_links": 17,
  "by_category": {
-  "autonomous_vehicle": 127,
+  "autonomous_vehicle": 136,
   "industrial": 40,
   "humanoid": 29,
   "consumer": 24,
-  "delivery": 22,
+  "delivery": 23,
   "robot_arm": 18,
   "surgical": 17,
   "service": 8,
@@ -17,14 +17,14 @@
   "warehouse_amr": 3
  },
  "by_severity": {
-  "minor_injury": 78,
+  "minor_injury": 80,
   "serious_injury": 67,
-  "no_harm": 60,
-  "property_damage": 59,
+  "property_damage": 65,
+  "no_harm": 62,
   "fatality": 31
  },
  "by_escalation_stage": {
-  "report": 175,
+  "report": 185,
   "investigation": 48,
   "follow_up": 31,
   "recall": 24,
@@ -34,18 +34,19 @@
   "settlement": 1
  },
  "by_origin": {
-  "news": 193,
+  "news": 196,
   "nhtsa": 57,
   "osha": 39,
+  "transportstyrelsen": 7,
   "cpsc": 3,
   "safetygate": 3
  },
  "by_company": {
-  "unattributed": 87,
+  "unattributed": 88,
   "Waymo": 82,
   "Tesla": 14,
+  "Starship Technologies": 10,
   "Unitree Robotics": 10,
-  "Starship Technologies": 9,
   "Zoox": 9,
   "Cruise": 8,
   "Intuitive Surgical": 7,
@@ -55,12 +56,15 @@
   "iRobot": 3,
   "Baidu": 3,
   "Ecovacs": 3,
+  "EasyMile": 3,
   "Amazon": 2,
   "Serve Robotics": 2,
   "Husqvarna": 2,
   "Globus Medical": 2,
   "Figure AI": 2,
   "Honda": 2,
+  "Navya": 2,
+  "Adastec": 2,
   "Ocado": 1,
   "Kiwibot": 1,
   "Knightscope": 1,
@@ -95,7 +99,8 @@
   "Osaka Metro": 1,
   "Grab": 1,
   "BOLDLY": 1,
-  "Tier IV": 1
+  "Tier IV": 1,
+  "Scania": 1
  },
  "by_year": {
   "1979": 1,
@@ -108,20 +113,21 @@
   "2017": 9,
   "2018": 9,
   "2019": 14,
-  "2020": 9,
-  "2021": 15,
-  "2022": 8,
+  "2020": 11,
+  "2021": 18,
+  "2022": 9,
   "2023": 18,
   "2024": 27,
-  "2025": 68,
-  "2026": 100
+  "2025": 69,
+  "2026": 103
  },
  "by_source_language": {
   "unknown": 712,
-  "en": 40,
-  "ja": 19,
+  "en": 44,
+  "ja": 24,
+  "sv": 11,
   "de": 3,
   "zh": 2
  },
- "exported_at": "2026-11-26T18:00:34+00:00"
+ "exported_at": "2026-11-27T17:45:57+00:00"
 }
